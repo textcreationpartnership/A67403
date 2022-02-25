@@ -1,0 +1,837 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of the eminently learned, pious, and painful minister of the gospel, Dr. Samuel Winter, sometime provest of Trinity Colledge near Dublin in Ireland together with some rare examples of Gods gracious answers to his prayers, upon several occasions.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 108 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67403</idno>
+            <idno type="STC">Wing W59A</idno>
+            <idno type="STC">ESTC R40677</idno>
+            <idno type="EEBO-CITATION">19504531</idno>
+            <idno type="OCLC">ocm 19504531</idno>
+            <idno type="VID">108905</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108905)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1679:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of the eminently learned, pious, and painful minister of the gospel, Dr. Samuel Winter, sometime provest of Trinity Colledge near Dublin in Ireland together with some rare examples of Gods gracious answers to his prayers, upon several occasions.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>[18], 75 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: J.W.</note>
+                  <note>Imperfect: tightly bound and slightly faded, with some loss of print.</note>
+                  <note>Reproduction of original in the Trinity College Library, Dublin University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Winter, Samuel, 1603-1666.</term>
+               <term>Baptists --  England --  Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108905:1"/>
+            <pb facs="tcp:108905:1" rendition="simple:additions"/>
+            <p>THE LIFE AND DEATH, Of the Eminently Learned, Pious, and Painful Miniſter of the Goſpel, D<hi rend="sup">r.</hi> 
+               <hi>SAM<g ref="char:V">Ʋ</g>EL WINTER,</hi> Sometime Proveſt of Trinity Colledge near <hi>Dublin</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>Together with ſome Rare Examples of Gods gracious Anſwer to his Prayers, upon ſeveral Occaſions.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 10.7.</hi>
+               </bibl>
+               <p>The memory of the Juſt is bleſſed: But the Name of the Wicked ſhall rot.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſal. 34.15.</hi>
+               </bibl>
+               <p>The eyes of the Lord are upon the Righteous: and his eares are open to their Cry.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt,</hi> at the ſign of the <hi>Bible</hi> and three <hi>Crowns</hi> at the lowe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end of <hi>Cheapſide.</hi> 1671.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:108905:2"/>
+            <pb facs="tcp:108905:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THou haſt here a true Narrative of the Life and Death of that emi<g ref="char:EOLhyphen"/>nent Servant of Jeſus Chriſt, <hi>Samuel Winter</hi> Doctor in Di<g ref="char:EOLhyphen"/>vinity, who was for ſeve<g ref="char:EOLhyphen"/>ral years Proveſt, or Maſter
+<pb facs="tcp:108905:3"/>of Trinity Colledge near <hi>Dublin</hi> in <hi>Ireland,</hi> publiſhed at the deſire of his ſorrow<g ref="char:EOLhyphen"/>ful Widdow, by a Perſon who had familiar acquain<g ref="char:EOLhyphen"/>tance with him for about twenty years, as well whilſt he was Miniſter of <hi>Cotting<g ref="char:EOLhyphen"/>ham,</hi> hereafter mentioned, as whilſt he was in <hi>Ireland,</hi> and ſince his coming over into <hi>England,</hi> and was pre<g ref="char:EOLhyphen"/>ſent with him in the time of his Sickneſs, and at his Death, who by reaſon of his long, and familiar Con<g ref="char:EOLhyphen"/>verſation with him, is able, and doth teſtifie to the Truth of moſt of the latter paſſages in the enſuing Diſcourſe,
+<pb facs="tcp:108905:3"/>from his own knowledge; which is thought fit to be Publiſhed, not ſo much to adorn the Name, or to per<g ref="char:EOLhyphen"/>fume the memory of the De<g ref="char:EOLhyphen"/>ceaſed, as to provoke others (eſpecially Miniſters of the Goſpel) to a ſerious imi<g ref="char:EOLhyphen"/>tation of him, to the Glory of God; edification of others, and the comfort of their own Souls here, and at the appear<g ref="char:EOLhyphen"/>ing of Jeſus Chriſt; which effect that it may produce, is the earneſt Prayer of the pub<g ref="char:EOLunhyphen"/>liſher</p>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:108905:4"/>
+            <head>Courteous Reader.</head>
+            <p>HOwever I can have no confi<g ref="char:EOLhyphen"/>dence that my commendation, or atteſtation to the enſuing Narra<g ref="char:EOLhyphen"/>tive, of the Life and Death of ſo eminent a Servant of God, can con<g ref="char:EOLhyphen"/>tribute any thing to a work that in<g ref="char:EOLhyphen"/>deed needs it not, being ſo exactly performed by a friend of approved faithfulneſs, and endeared affection, and ſo throughly acquainted with him, who is the Subject of it. Yet the deſire of the pious and ſorrowful Widdow; and the entire love I had to her dear Husband now with God, hath occaſioned the following lines; Which Juſtice to the dead, I hearti<g ref="char:EOLhyphen"/>ly deſire may be beneficial to the liv<g ref="char:EOLhyphen"/>ing, as being not only what I had
+<pb facs="tcp:108905:4"/>from perſons of integrity, but of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſt part my own certain knowledge. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rely the Doctor was a pattern not unworthy his Brethrens imitation; and there is no cauſe to doubt but that the enſuing Relation may glad the hearts of Gods people, and ſtir them up to follow the faith of ſuch lights. He was an other <hi>Apollos,</hi> mighty in the Scriptures, having made them his particular ſtudy above forty years together: upon which, is the read many Expoſitors, ſo he chiefly ſtudyed the famous Comenta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies of judicious and bleſſed <hi>Calvin,</hi> whom of all others he moſt admir<g ref="char:EOLhyphen"/>ed; and I may truly ſay, his la<g ref="char:EOLhyphen"/>bour was not in vain: for that he attained to a more than ordinary dexterity, not only of knowing the mind of God in his Word in the ge<g ref="char:EOLhyphen"/>neral, but particularly in the moſt difficult, which he made ſuffici<g ref="char:EOLhyphen"/>ent proof of, in his opening of the Types and Propheſies, eſpecially the Reve<g ref="char:EOLhyphen"/>lations,
+<pb facs="tcp:108905:5"/>having expounded a great part thereof in his Divinity Lecture in the Colledge of <hi>Dublin,</hi> whereof alſo he was Proveſt. I have of<g ref="char:EOLhyphen"/>ten heard him Preach excellently of the Types, which he admired for their great uſefulneſs in opening ma<g ref="char:EOLhyphen"/>ny difficulties in the New Teſtament<g ref="char:punc">▪</g> And for the profitable part of Cri<g ref="char:EOLhyphen"/>tical learning, ſo far as concerne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Hebrew</hi> and <hi>Creek</hi> text of the Bible, he was very well verſt in them<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eſpecially the latter, inſomuch tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> howſoever his Sermons were for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt part very plain (for in them he ſought not his own glory but his Maſters, and the profit of his hear<g ref="char:EOLhyphen"/>ers,) The learned and judicious, by his excellent faculty in opening difficult Scriptures, found that in them wherewith they were benefited and delighted. And ſome to my knowledge, have heartily wiſhed that his Expoſitions upon ſelect Scrip<g ref="char:EOLhyphen"/>tures which were not ordinary,
+<pb facs="tcp:108905:5"/>had been collected, digeſted, and publiſhed by himſelf. But his <hi>Ge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius</hi> being more for the Pulpit than <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Preſs, daſhed ſuch expectations. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was a moſt affectionate Preacher; ſuch was his zeal and fervency, that I may ſafely allude to that of the Apoſtle, <hi>1 Theſſ. 2.8. Being af<g ref="char:EOLhyphen"/>fectionatly deſirous of you, we were willing to have imparted to you, not the Goſpel of God only, but alſo our Souls, becauſe ye were dear unto us:</hi> Such was his longing after the Salvation of poor Sinners. I have heard him often, with trouble, complain of the cold Preaching of ſome Miniſters, as if Chriſt were ſtill in his Grave. Nor was the Lord wanting to recom<g ref="char:EOLhyphen"/>pence this his labour of Love with a plentiful Harveſt, making him a very happy Inſtrument in the conver<g ref="char:EOLhyphen"/>ſion of very many, and in the build<g ref="char:EOLhyphen"/>ing up of many alſo. And as his Sermons breathed of his affection,
+<pb facs="tcp:108905:6"/>as is ſaid, ſo they were with power, for he was a <hi>Boenarges:</hi> ſo that notorious Sinners, as not able to reſiſt the ſpirit by which he ſpake, have been compelled to yield, and to come unto <hi>Chriſt.</hi> He made if his firſt work whereever he came, to humble ſinners, therein following the examples of the ſervants of God in Scripture, and the grave advice given him by Mr. <hi>Dod,</hi> or Mr. <hi>Thomas Hooker,</hi> when he was to enter upon a charge where the people were generally Rude and profane, On the other hand, he was of an exceeding tender ſpirit towards ſuch a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were coming on to <hi>Chriſt,</hi> or un<g ref="char:EOLhyphen"/>der ſpiritual trouble for loſs of com<g ref="char:EOLhyphen"/>munion with him, that he would even weep over them: an Argument of much grace thus kindly to bleed in the wounds of grieved Saints. And ſo good was God to him, that as he ſound his aſſiſtance wonderful in Preaching what he had afore pre<g ref="char:EOLhyphen"/>pared,
+<pb facs="tcp:108905:6"/>ſo even in very conſiderable digreſſions which he would purpoſely <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all into. I doubt not from the motion of the ſpirit of God and his quickneſs, to obſerve the frame and need of his hearers, which made him often ſay, that ſomtimes a digreſſi<g ref="char:EOLhyphen"/>on was no Tranſgreſſion. And I may ſay to the glory of God, that however he hath not left many Books to perpetuate his memory, yet he hath left many living Saints whom he did beget unto <hi>Chriſt</hi> by the Goſpel, the moſt lively Images of the grace of God in him, and in whom though dead he yet ſpeaketh. His dear love to the people and places where God was pleaſed moſt ſignally to ſeal to his Miniſtry, deſerves to be remembred, whom I have known him to mention with tears of Joy, And indeed he was ſo ſet upon the fulfilling of his Miniſtry, that no<g ref="char:EOLhyphen"/>thing rejoyced him more than an opportunity of Preaching the Goſpel.
+<pb facs="tcp:108905:7"/>He would of ten ſay, that <hi>his oppor<g ref="char:EOLhyphen"/>tunities were his riches,</hi> and that his heart has been often exceedingly lifted up at the ringing of the Ser<g ref="char:EOLhyphen"/>mon Bell. Nor was he thus deſirous to Preach, but as deſirous that the word Preached might not ſlip out of the hearts or memories of ſuch of the hearers as he converſed with, turn<g ref="char:EOLhyphen"/>ing all diſcourſes to what was late<g ref="char:EOLhyphen"/>ly Preached, ſaying, that as the Bell when it was done ringing leaves a humming behind it, ſo ſhould Ser<g ref="char:EOLhyphen"/>mons after they are Preached. He was a man mighty in Prayer: he would often ſay, a man of much Prayer was a man of much grace, and a man of little Prayer, was a a man of little grace. As he was of a melted ſpirit in Prayer, ſo he was another <hi>Jacob,</hi> a great wreſtler with God. His Prayers were not only affectionate, but very argumentative. He had a very great excellency in pleading with God from Scripture
+<pb facs="tcp:108905:7"/>
+               <hi>Topicks,</hi> which he would wonder<g ref="char:EOLhyphen"/>fully improve. And as his communi<g ref="char:EOLhyphen"/>on with God was great, ſo the Lord did to admiration let out himſelf <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him, not only eminently anſwer<g ref="char:EOLhyphen"/>ing his prayers, but revealing many ſecrets to him in and after prayer; ſome of which for the encouragement and comfort of the Godly Reader I ſhall here take the liberty to relate. In his younger years he had a Law-Sute with one about a Living he was poſſeſſed of, of good value, at laſt he was about to reſign it as being un<g ref="char:EOLhyphen"/>able to withſtand ſo potent an adver<g ref="char:EOLhyphen"/>ſary. The people hearing of his reſo<g ref="char:EOLhyphen"/>lution, came to him, and beſought him that he would not but conſider their precious Souls. His tenderneſs was ſuch that he held on the Sute to the expending of a very great ſumm of money, and in the end was over<g ref="char:EOLhyphen"/>come. His then Wife was much caſt down for that ſo great a part of their eſtate was ſpent in that Sute;
+<pb facs="tcp:108905:8"/>whereupon being abroad one day, h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beſought the Lord exceeding earneſt<g ref="char:EOLhyphen"/>ly to quiet his and her ſpirit with hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> providence, whereupon he ſaid, h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaw the Skie open and heard a voic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which ſaid to him, that ſeeing h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was willing to ſpend his eſtate for his Glory, neither he nor his ſhould ever want, which when he came home, he told his Wife with great Joy, ſaying, he would not for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he was worth want that comfortable anſwer to his prayers. At an other time being without his knowledge no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> min<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted in Parliament to go with their Commiſſioners for <hi>Ireland,</hi> his wife was unwilling, he having a precious people and great living where he was: Some alſo of his Wives neareſt Relations, coming upon that occaſion to viſit them, diſ<g ref="char:EOLhyphen"/>ſwaded him from going himſelf alſo was fearful of the Sea: in this Streight, as his uſual manner was he retired to his Cloſet, where having
+<pb facs="tcp:108905:8"/>ſpread the matter before the Lord, and with much earneſtneſs begging Counſel of God, the Lord ſo ſatisfied him, that he told his Wife he muſt go, for he was aſſured he ſhould be carried thither in ſafety, and ſhould be an Inſtrument to convert many Souls there. In both, the Lord was pleaſed to fulfill his word after a wonderful manner, as there are other Inſtances at hand, were it needful to multiply: as that of his perſwaſion of the recovery of Mr. <hi>J.</hi> Mrs. <hi>M.</hi> and Mr. <hi>J. W.</hi> Even when ſick in an other Land, and his perſwaſion of Gods great care over theſe Nations for the ſake of the many thouſands of the Righteous in them. Touching which in the cloſe of a day of prayer, he ſaid he had an aſſur<g ref="char:EOLhyphen"/>ance by an audible voice, and a glo<g ref="char:EOLhyphen"/>rious brightneſs that ſhined before him. It is not unknown to ſome how great an encourager he was of godlineſs in all, eſpecially in ſuch as, under
+<pb facs="tcp:108905:9"/>his. Government in the Colledge, were deſigned for the Miniſtry, whom he would prefer in fellowſhips or other places before others, And the like tenderneſs he ſhowed his Brethren in the Miniſtry, when un<g ref="char:EOLhyphen"/>der any diſcouragement becauſe of their own weakneſs, biding them to look up, and telling them that the way to have legs was to uſe legs. He was very communicative: for he loved to be asked queſtions, eſpe<g ref="char:EOLhyphen"/>cially touching the ſenſe of difficult Scriptures, to which, even upon the Sudden, he would anſwer admirably. His great humility he ſhowed in his delightful Converſe with the meaneſt Saints. What he was in other Re<g ref="char:EOLhyphen"/>lations needs not my recital. As he was a loving Father, ſo a Husband of many, which leaves the deeper impreſſion upon the heart of his Re<g ref="char:EOLhyphen"/>lict. Surely he was a true friend, an uſeful Neighbour. But that I may draw to a Concluſion, having
+<pb facs="tcp:108905:9"/>already exceeded the bounds of an Epiſtle; what I have here ſpoken I deſire may provoke imitation, and that Miniſters may thereby be ex<g ref="char:EOLhyphen"/>cited to do all the good they can in their day, ſeeing <hi>the Prophets do not live for ever;</hi> that their words may live when they are dead, that having ſo ſerved Gods provi<g ref="char:EOLhyphen"/>dence in their generation, they may enjoy that Crown of which he is in full poſſeſſion, and I deſire all may ſeriouſly conſider why the Lord con<g ref="char:EOLhyphen"/>tinues to remove our <hi>Lots,</hi> and to pluck up our ſtakes, and to fear leſt it may be in Judgement to us of theſe ſinful times, as it is in mercy doubtleſs to them. And I do heartily wiſh that theſe loud Voices of Gods providence might put us upon our Watch, that keeping Faith and a good Conſcience we may be in a rea<g ref="char:EOLhyphen"/>dineſs to enter into the Joy of our Lord, when we ſhall be
+<pb facs="tcp:108905:10"/>Called off the Stage of this miſerable world: Which the great God graciouſly vouchſafe in and through our Lord Jeſus Chriſt. <hi>Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:108905:10"/>
+            <head>The Life and Death of the Reve<g ref="char:EOLhyphen"/>rend, Learned, and holy Doctor <hi>Samuel Winter,</hi> ſometime Pro<g ref="char:EOLhyphen"/>veſt of <hi>Trinity Colledge</hi> by <hi>Dublin.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">D</seg>Octor <hi>Samuel Winter</hi> was born in the year of our Lord 1603. at <hi>Balſal,</hi>
+               <note place="margin">His Birth and educa<g ref="char:EOLhyphen"/>tion.</note> in the wood-land part of <hi>Warwickſhire,</hi> about ſeven miles from the City of <hi>Coventry,</hi> of Religious Parents. About the twelfth year of his age it pleaſed God, by the Miniſtry of one Mr. <hi>Slader,</hi> then Preach<g ref="char:EOLhyphen"/>er at the Chappel of <hi>Knowl,</hi> near unto <hi>Balſal,</hi> (The Doctors Father having a great hand in bringing him thither) to awaken his conſcience, and to make him ſerious about the things that con<g ref="char:EOLhyphen"/>cerned his everlaſting Salvation,<note place="margin">His Con<g ref="char:EOLhyphen"/>verſion.</note> as alſo to ſtir up in him earneſt deſires of doing good to the ſouls of others; for which
+<pb n="2" facs="tcp:108905:11"/>end, one day as he came from School, about a mile from his Fathers houſe, he retired himſelf under an hedge to pray; and among other Petitions, he begged of God that he would quallify him for the work of the Miniſtry, and make his labour effectual, and ſucceſſ<g ref="char:EOLhyphen"/>ful therein; At which time he thought that he heard a voice, ſaying, <hi>God hath heard thy Prayer,</hi>
+               <note place="margin">Prayer An<g ref="char:EOLhyphen"/>ſwered.</note> 
+               <hi>and hath deſigned thee for that Work, and thou ſhalt be an Inſtrument of Converting many Souls to God.</hi> This exceedingly chear<g ref="char:EOLhyphen"/>ed up his heart, inſomuch as coming home, he applyed himſelf to his Father, requeſting of him that he might be train<g ref="char:EOLhyphen"/>ed up for the work of the Miniſtry: His Father asked him the reaſon of his deſires? He told him what Prayer he had made, and what return he had from God to it.</p>
+            <p>His Father being much affected here<g ref="char:EOLhyphen"/>with, ſent him to the Free-School in <hi>Coventry,</hi> where through his extraor<g ref="char:EOLhyphen"/>dinary diligence and induſtry, he made ſo good a progreſs in Learning, that though at near fourteen years of Age, he underſtood nothing or very little of the firſt rudiments of <hi>Grammer,</hi> yet,
+<pb n="3" facs="tcp:108905:11"/>within a few years he became fit for the Univerſity, and accordingly he was ſent to <hi>Cambridge,</hi>
+               <note place="margin">He goes to the Uni<g ref="char:EOLhyphen"/>verſity.</note> and placed in <hi>L. Col<g ref="char:EOLhyphen"/>ledge,</hi> and had for ſome time, that famous Doctor <hi>Preſton</hi> for his Tutor. At the feet of this <hi>Gamaliel,</hi> thoſe na<g ref="char:EOLhyphen"/>tural and gracious abilities which he brought along with him, were much improved: and partly by the help and directions of ſo excellent a Guide, and partly by Gods bleſſing upon his unwearied labours,<note place="margin">His profi<g ref="char:EOLhyphen"/>ciency there.</note> he attained to a great meaſure of knowledge, both in the Tongues and Arts, and alſo in Di<g ref="char:EOLhyphen"/>vinity.</p>
+            <p>When he had Commenced Maſter of Arts, being as yet unwilling to enter upon that great and dreadful work of the Miniſtry, he left <hi>Cambridge,</hi> and went to <hi>Boſton</hi> in <hi>Lincolnſhire,</hi>
+               <note place="margin">He goes to <hi>Boſton.</hi>
+               </note> where he lived under the Miniſtry of Holy and learned Mr. <hi>John Cotton;</hi> out of whoſe Family, after ſome time, he married a Wife one Mrs. <hi>Anne Beeſton,</hi> a Gentle<g ref="char:EOLhyphen"/>woman of a good extraction,<note place="margin">His firſt Mariage.</note> and one that had a conſiderable Portion, the match being of Mr. <hi>Cottons</hi> contri<g ref="char:EOLhyphen"/>vance.</p>
+            <p>After his marriage, and ſome time
+<pb n="4" facs="tcp:108905:12"/>continuance with his Wife, in Mr. <hi>Cottons.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſick<g ref="char:EOLhyphen"/>neſs.</note> Family, he fell into a very vi<g ref="char:EOLhyphen"/>olent. Feavour, which in the Judge<g ref="char:EOLhyphen"/>ment of his Phyſitians, was deſperate, and left no hopes of his recovery: His Wife being much affected, and afflicted herewith, he would oft comfort her, telling her that he ſhould not die at this time, for that God had not yet fulfilled his Promiſe made to him in his youth, wherein he had aſſured him that he ſhould be an Inſtrument of converting many Souls unto him.<note place="margin">His reco<g ref="char:EOLhyphen"/>very.</note> And accord<g ref="char:EOLhyphen"/>ingly he recovered, and then reſolved to apply himſelf to the Work <hi>of the</hi> Mi<g ref="char:EOLhyphen"/>niſtry:<note place="margin">He enters upon the Miniſtry.</note> and being more ambitious to do God and his Church ſervice, than to advance himſelf in the World, he re<g ref="char:EOLhyphen"/>moved from <hi>Boſton</hi> to a ſmall living near <hi>Nottingham</hi> called <hi>Woodborow,</hi> where by his painful, and powerful Preach<g ref="char:EOLhyphen"/>ing (many out of neighbouring Towns flocking to his Miniſtry, <hi>as the Doves to their windows</hi>) the ſeeds of Grace through Gods bleſſing, were ſown in the hearts of many, which ſprang up, and ſome of them remain unto this day. This place he alwaies highly eſteemed, and would often call it, <hi>His Firſt-born.</hi>
+            </p>
+            <pb n="5" facs="tcp:108905:12"/>
+            <p>From <hi>Woodborow</hi> he was removed to <hi>York,</hi> where,<note place="margin">His re<g ref="char:EOLhyphen"/>move to <hi>York.</hi>
+               </note> in that great and populous City, he continued a Lecturer for ſome time, and as there he had great opportunities for ſervice, ſo had he great ſucceſs; receiving there a mani<g ref="char:EOLhyphen"/>feſt Seal to his Miniſtry, in the Conver<g ref="char:EOLhyphen"/>ſion, and Confirmation of many: But our Civil Wars coming on about that time, he could not ſtay long at <hi>York:</hi> Yet, though the door was ſhut up againſt him in that place, another large and effectual door was opened for him elſewhere. For <hi>Cottingham,</hi> a great Town within three miles of <hi>Hull,</hi>
+               <note place="margin">His re<g ref="char:EOLhyphen"/>move to <hi>Cottingham<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note> being then deſtitute of a Paſtor, thither he was, by a more than ordinary Providence, brought; and in that place, for about the ſpace of eight years he continued to be a burning, and ſhining Light, as it was ſaid of <hi>John the Baptiſt,</hi> burning in his Zeal and Doctrine, and ſhining in his Life and holy Converſation.<note place="margin">His activi<g ref="char:EOLhyphen"/>ty for God.</note> He was exceeding active and induſtrious for God; He thought no pains too great whereby the peoples Souls might be edified. He Preached to them in pub<g ref="char:EOLhyphen"/>lick twice every Lords Day: He ex<g ref="char:EOLhyphen"/>pounded the Chapters which he read,
+<pb n="6" facs="tcp:108905:13"/>and Catechiſed the Youth. In the even<g ref="char:EOLhyphen"/>ing he repeated his Sermons to his own Family, many of the neighbours alſo reſorting to him. On the week daies he took occaſion to go from Houſe to Houſe, inſtructing the Ignorant, and endeavouring to build up his Pariſhioners in their moſt holy Faith. And God was pleaſed ſo to bleſs his labours,<note place="margin">The ſuc<g ref="char:EOLhyphen"/>ceſs of his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iniſtry.</note> that he became inſtrumental to the Conver<g ref="char:EOLhyphen"/>ſion, and Confirmation of many, who attained (partly by his publick Mini<g ref="char:EOLhyphen"/>ſtry, and partly by his private pains) a great meaſure of Grace and Gifts; ſo that they made Conſcience of the ſtrict obſervation of <hi>the Lords Day,</hi> of Clo<g ref="char:EOLhyphen"/>ſet, and Family duties, and other ſpiritual ſervices required by God as fruits of their Faith.</p>
+            <p>So meek, and affable he was in his carriage towards all men, that his company was pleaſing and delightful, even to many of thoſe who had no reliſh of his Doctrine. At <hi>Cottingham</hi> he buried his loving,<note place="margin">His <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es.</note> and dearly beloved Wife, who left him five Sons: which loſs was yet (through Gods merciful Providence) abundantly repaired in his ſecond marriage, about three years af<g ref="char:EOLhyphen"/>ter
+<pb n="7" facs="tcp:108905:13"/>with Mrs. <hi>Elizabeth Weaver,</hi>
+               <note place="margin">His ſecond marriage.</note> the Daughter of <hi>Chriſtopher Weaver</hi> 
+               <abbr>Eſq</abbr> with whom he had a good Portion, and ſhe proved excellently quallified for the good and comfort, both of him and his children; and God was pleaſed ſo to bleſs her prudent management of his outward affairs, that when he dyed, he left a plentiful eſtate to his Children, beſides all thoſe Acts of more than or<g ref="char:EOLhyphen"/>dinary bounty, which both in his Life, and at the time of his Death he teſtified his Faith by.</p>
+            <p>In the year 1650. the Powers that were then in being, reſolved to ſend over four Commiſſioners into <hi>Ireland,</hi> for the ſettlement of that diſtracted, and almoſt ruined Kingdom, and judge<g ref="char:EOLhyphen"/>ing it neceſſary to ſend along with them a godly, able and Orthodoxe Divine,<note place="margin">His call to <hi>Ireland.</hi>
+               </note> they ordered that Mr. <hi>Winter</hi> ſhould attend theſe Commiſſioners thither: Which Order of theirs being ſent to him to <hi>Cottingham,</hi> where he then lived, he looked upon it as a clear Call from God. Yet for his better ſatisfaction, he ad<g ref="char:EOLhyphen"/>viſed with his Friends, and begged direction from God in a buſineſs of ſo weighty concernment; after which he
+<pb n="8" facs="tcp:108905:14"/>chearfully embraced this Call, hoping that God would bring ſome Glory to his own Name, by the labours of him, his unworthy ſervant, in that Kingdom. And ſo, not conſulting with fleſh and blood, which might have ſuggeſted un<g ref="char:EOLhyphen"/>to him, that it would be an unadviſed act, and diſadvantagious to him, to part with ſo tractable, and loving a People, and with ſo good a Rectory, (it being above four hundred pound a year) and to caſt himſelf upon Stran<g ref="char:EOLhyphen"/>gers, neither knowing, nor capitulat<g ref="char:EOLhyphen"/>ing with them what his Salary ſhould be, for the maintenance of himſelf and Fa<g ref="char:EOLhyphen"/>mily. And ſo, reſigning up his Living, he prepared for his Journey.</p>
+            <p>At his coming over into <hi>Ireland,</hi>
+               <note place="margin">His re<g ref="char:EOLhyphen"/>move to <hi>Ireland.</hi>
+               </note> the Commiſſioners allowed him but one 100. <abbr>
+                  <hi>l.</hi>
+               </abbr> for the firſt year, which yet he chearfully accepted, though it did not defray the charges of their Tranſporta<g ref="char:EOLhyphen"/>tion, with ſuch neceſſaries as he pro<g ref="char:EOLhyphen"/>vided for the accommodation of himſelf, and Family: much leſs did it repair the loſſes which he ſuſtained ſhortly af<g ref="char:EOLhyphen"/>ter his Landing,<note place="margin">His loſſes.</note> when the <hi>Iriſh</hi> Army took from his divers Horſes of good value, which he carried over with him.
+<pb n="9" facs="tcp:108905:14"/>A great part of his worldly delight con<g ref="char:EOLhyphen"/>ſiſting in keeping good Horſes.</p>
+            <p>In this his firſt year,<note place="margin">His great pains.</note> he attended the Commiſſioners in ſeveral Journies which they made into the four Provinces of <hi>Ireland,</hi> was their Houſhold Chaplain, performed Family duties, and Preach<g ref="char:EOLhyphen"/>ed in Publick <hi>every Lords Day,</hi> where<g ref="char:EOLhyphen"/>ſoever they came. And in the City of <hi>Dublin</hi> (where they continued the great<g ref="char:EOLhyphen"/>eſt part of their time) he Preached ſometimes twice every <hi>Lords Day</hi> in Chriſt-Church, before the Commiſſio<g ref="char:EOLhyphen"/>ners, the Lord Major, and Aldermen of that City; many Gentlemen, and others reſorting to his Miniſtry.</p>
+            <p>Not long after, ſome other Miniſters coming thither from <hi>England,</hi> the Commiſſioners (for the eaſe of Mr. <hi>Winter,</hi>) uſed to requeſt one or other of them to Preach in the morning, reſerv<g ref="char:EOLhyphen"/>ing Mr. <hi>Winter</hi> for the afternoon, at which time was the greateſt Auditory: But he not being willing to be out of imployment, ſet up a Lecture,<note place="margin">He ſets up a Lecture.</note> which he Preached every <hi>Sabbath</hi> morning at ſeven a clock, in the Church of St. <hi>Ni<g ref="char:EOLhyphen"/>cholas,</hi> within the ſaid City: And this Lecture was frequented by the Commiſſi<g ref="char:EOLhyphen"/>oners,
+<pb n="10" facs="tcp:108905:15"/>City-Magiſtrates, and many others, ſo that he had a very frequent Congregation; and to encouragepoor people to come to Church,<note place="margin">His pru<g ref="char:EOLhyphen"/>dence.</note> he cauſed ſome wite Loaves to be diſtributed among them alwaies when the Sermon was ended.</p>
+            <p>About this time the Commiſſioners finding that <hi>Trinity Colledge</hi> by <hi>Dublin,</hi> through the iniquity of the times, and diſtractions of the Kingdom, was left deſtitute by the Fellows and Students, and thereby brought almoſt to ruine, they thought it their duty, for the ad<g ref="char:EOLhyphen"/>vancement of Religion and Learning, to endeavour the repair of the ſame: And for the end they appointed the ſaid Mr. <hi>Winter</hi> to be the Proveſt,<note place="margin">He is made Proveſt of the Col<g ref="char:EOLhyphen"/>ledge.</note> or Ma<g ref="char:EOLhyphen"/>ſter of it, and where (after a time) he Commenced Doctor in Divinity, having with ſingular applauſe, and ap<g ref="char:EOLhyphen"/>probation, performed all Acts and Ex<g ref="char:EOLhyphen"/>erciſes requiſite thereunto. He alſo out of his care, and zeal to promote ſo pi<g ref="char:EOLhyphen"/>ous a work, in a ſhort time encouraged, and procured the return of divers Fel<g ref="char:EOLhyphen"/>lows,<note place="margin">It proſper<g ref="char:EOLhyphen"/>ed under him.</note> and Students to the Colledge, as alſo the coming over from <hi>England</hi> of ſeveral hopeful young Schollars, where<g ref="char:EOLhyphen"/>by
+<pb n="11" facs="tcp:108905:15"/>the Colledge was ſuddenly repleniſh<g ref="char:EOLhyphen"/>ed with many Religious, and hopeful young men; likely to prove inſtru<g ref="char:EOLhyphen"/>ments of Gods Glory in the work of the Miniſtry, and otherwaies. And by the great pains which he took with them, inſtructing them both in Hu<g ref="char:EOLhyphen"/>mane and Divine learning, Preaching, and expounding the Sacred Scriptures to them, and often praying with them, both in the Colledge Chappel, and ſometimes in his own Lodgings, he gave as great hopes of the flouriſhing of that Seminary in Learning, and Piety, as in any Colledge in <hi>Chriſtendom.</hi> And they to retaliate his care and pains, gave him an honourable Teſtimonial under the Colledge Seal, which I have thought fit here to inſert.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>OMNIB<g ref="char:V">Ʋ</g>S Chriſti fidelibus ad quos praeſentes literae pervenerint. Salutem in Chriſto Domino ſempiternam. Nos Vicecancellarius <g ref="char:V">Ʋ</g>niverſitatis, &amp; Socii ſeniores Collegii Sanctae &amp; individuae Trinitatis juxta Dublin, Teſtamur vi<g ref="char:EOLhyphen"/>rum venerabilem Dominum Samuclem Winter Anglum verbi Divini praedicato<g ref="char:EOLhyphen"/>rem fidelem, verae religionis vindicem
+<pb n="12" facs="tcp:108905:16"/>acerrimum, &amp; de Collegio S. S. Trinitan in Illuſtri Academia Cantabrigienſi Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> beralium artium, &amp; S. Theologiae oli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtudioſum, adductum fuiſſe ad nos cu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> uberrimis teſtimoniis ingenuitatis, probi<g ref="char:EOLhyphen"/>tatis, doctrinae, &amp; ſcientiae Theologicae<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> (quorum meritorum ſuorum &amp; ſtudioru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> luculentiſſimum documentum jampride<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tam publice quam privatim in celeberrim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> civitate Dublinienſi laudabiliter &amp; egre<g ref="char:EOLhyphen"/>gie dederit) ad capeſſendum gradu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Doctoratus in Theologia; &amp; illorum plu<g ref="char:EOLhyphen"/>rimorumque doctiſſimorum de meliori not<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> virorum, optime habilem, idoneum, &amp; dignum teſtimoniis judicatum fuiſſe, mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nere, officio, dignitate, &amp; honore Do<g ref="char:EOLhyphen"/>ctoratus in Theologia. Nos itaque quib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ejus virtutum excellentia, meritorum copia, diuturna ſtudia, pervigileſque la<g ref="char:EOLhyphen"/>bores innotuerunt, habita rati ne ſcientiae eloquentiae, doctrinae, facultaetis Theol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> gicae, peritiae diſputandi, interpretandi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> concionandi, &amp; aliarum virtutum, &amp; morum ejuſdem Samuelis Winter, quoru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> omnium certiſſimum ſpecimen laudabiliter, egregie, magiſtraliter, &amp; more Doctore<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dederit publice è ſuggeſto per tres dies in Collegii ſacello. Nos igitur in venerand<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <g ref="char:V">Ʋ</g>niverſitatis noſtrae Confeſſu, eundém
+<pb n="13" facs="tcp:108905:16"/>Samuelem Winter unanimiter, omnium<g ref="char:EOLhyphen"/>que ſuffragiis in Chriſti nomine approba<g ref="char:EOLhyphen"/>tus, &amp; ſic approbatum Doctorem in Vniverſa Theologia ſolenniter pronuncia<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>imus, declaravimus, ac fecimus.</p>
+                  <closer>
+                     <dateline>Quod noſtrum Teſtimonium ut omnibus innoteſcat, ſubſcriptis ſingulorum nominibus, &amp; pub<g ref="char:EOLhyphen"/>lico Collegii noſtri Sigillo corroborari &amp; muniri curavimus. <date>Decimo ſeptimo die Auguſti anno Domini Milleſimo ſexcente<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>imo quinguageſimo quarto.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>Hen. Jones <hi>Pro-Cancellarius.</hi>
+                           </item>
+                           <item>Miles Symner Williamſon.</item>
+                           <item>Nath. Hoyle.</item>
+                           <item>Johannes Stearne.</item>
+                           <item>Adam Cuſacke.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Whilſt Doctor <hi>Winter</hi> continued Proveſt of that Colledge, he had oc<g ref="char:EOLhyphen"/>caſion to go to a place called <hi>Monouth,</hi>
+               <note place="margin">He Preaches at <hi>Monouth.</hi>
+               </note> a populous Town about ten miles from <hi>Dublin;</hi> where (according to his cuſtom in moſt places where he came) he Preached, and found the People very attentive to his Miniſtry, and deſirous to be inſtructed in the way to Heaven: Whereupon, at the earneſt requeſt,
+<pb n="14" facs="tcp:108905:17"/>both of the Miniſter, and divers others of the Inhabitants, he rode over to their every three weeks, and Preached which he continued for ſome years,<note place="margin">Gods bleſſes his labours.</note> and God was pleaſed to bleſs his labours for the Converſion of many <hi>Engliſh,</hi> and <hi>Iriſh</hi> which flocked to hear him.</p>
+            <p>The reaſon of his leaving that Univer<g ref="char:EOLhyphen"/>ſity and Kingdom is well known to ma<g ref="char:EOLhyphen"/>ny: and he came away to his great out<g ref="char:EOLhyphen"/>ward prejudice, the Colledge being indebted to him in a conſiderable ſum<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of monies, which he had disburſed for the uſe thereof, ſome part whereo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they have, ſince his deceaſe payed t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Son.</p>
+            <p>After his return into <hi>England,</hi>
+               <note place="margin">His return into <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </note> He with his Wife, ſojourned with ſome Friends, ſometimes in and about <hi>Weſt-Cheſter;</hi> ſometimes at <hi>Coventry;</hi> and other ſometimes with his Wives Relati<g ref="char:EOLhyphen"/>ons in <hi>Hertfordſhire,</hi> and <hi>Rutlandſhire.</hi> In all which places he became (through Gods bleſſing) an Inſtrument of much good, not only in the Families with whom he aboad, but alſo to ſeve<g ref="char:EOLhyphen"/>ral Neighbours with whom he converſ<g ref="char:EOLhyphen"/>ed.</p>
+            <p>Thus we have a brief account of the
+<pb n="15" facs="tcp:108905:17"/>moſt conſiderable paſſages of this Do<g ref="char:EOLhyphen"/>ctors Life, we are now come to the laſt <hi>Scene,</hi> wherein we ſhall find that ſaying made good; <hi>Vita qualis, finis talis:</hi> His holy and humble Life, being con<g ref="char:EOLhyphen"/>cluded with a comfortable and glorious Death. His Sun did not ſet in a Cloud, but ſhon out with a more bright and greater luſtre than is ordinarily ſeen. It was his work and buſineſs to glorifie God in his Life, and God did highly honour him at his Death: as will ap<g ref="char:EOLhyphen"/>pear by that which follows.</p>
+            <p>Whilſt he was in <hi>Rutlandſhire,</hi>
+               <note place="margin">His laſt ſickneſs.</note> on <hi>Thurſday October</hi> the thirteenth, in the year 1666. he rode to a Neighbouring Town to aſſiſt in carrying on a Day of Humiliation; wherein, having wearied his Body, and ſpent his ſpirits, he was fain to defer his return home till the next day: On the <hi>Lords Day</hi> following he exerciſed twice for the inſtruction of the Family with which he then aboad, and at his going to bed, he found him<g ref="char:EOLhyphen"/>ſelf not well. On <hi>Munday</hi> he continu<g ref="char:EOLhyphen"/>ed ill, yet aroſe, came down, and performed Family Duties. At dinner he could eat but little, and at night went ill to bed, yet ſlept pretty well,<note place="margin">His ſickneſs encreaſes.</note>
+               <pb n="16" facs="tcp:108905:18"/>only both thoſe nights, he complained of a pain on his right ſide, and he had fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quent provocations to vomit, but without effect. Oft he found himſelf cold: yet when he came a little to the fire, he was too hot in his own ſenſes inſomuch as his friends about him judg<g ref="char:EOLhyphen"/>ed that it would turn to an Ague.</p>
+            <p>
+               <hi>Wedneſday</hi> and <hi>Thurſday</hi> has diſtem<g ref="char:EOLhyphen"/>per continued: and on <hi>Friday,</hi> finding himſelf to grow weaker he deſired that his Will might be fairly engroſſed which lay by him under his own hand <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ting; and withall he laboured to perſwade his Wife to be content to part with him, ſaying, <hi>That it would n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be long before they ſhould meet again<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and then he put up earneſt Prayers unto God for her, and ſome other of his Re<g ref="char:EOLhyphen"/>lations.</p>
+            <p>Upon <hi>Friday</hi> he ſat up all the day, but ſtill continued under his Bodily diſtem<g ref="char:EOLhyphen"/>pers, and finding his ſtrength to decay, he would often repeat that of the <hi>Pſalmiſt, The Zeal of thine Houſe hath eaten me up.</hi> On <hi>Saturday</hi> he ſealed, and Pub<g ref="char:EOLhyphen"/>liſhed his Will,<note place="margin">He Pub<g ref="char:EOLhyphen"/>liſhes his Will.</note> all the day complain<g ref="char:EOLhyphen"/>ing of the Cramp that was in his left l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g. In the evening he went to bed,
+<pb n="17" facs="tcp:108905:18"/>and to the apprehenſion of thoſe about him ſlept well that night. About ſix a clock on the <hi>Sabbath</hi> morning, he raiſed himſelf up in his bed, and with a chearful and loud voice called to his Wife, who lay in a bed by him,<note place="margin">A fore<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Heave</note> ſay<g ref="char:EOLhyphen"/>ing, <hi>Sweet-Heart, I have been this night converſing with Spirits:</hi> and as in a Rapture, he cryed out, <hi>O ye Glories that are prepared for the Saints of God. The Lord hath been pleaſed to ſhew me this night, the exceeding weight of Glo<g ref="char:EOLhyphen"/>ry which is laid up in Heaven for his Choſen ones.</hi> Adding farther, That he had ſtudied, and thought that he knew as much what the Glory of Heaven was, as another man: But he now ſaw, that all the Divines on Earth were but Chil<g ref="char:EOLhyphen"/>dren in the knowledge of that great Myſtery of Heavenly Glory, which the Lord had that night given him a clearer ſight of, than ever formerly he had. That it was ſuch a Myſtery as could not be comprehended by the wit of man; with many other ſuch like expreſſions, having his Soul ſo wonderfully elevated, that he could not declare what he found, and felt therein.</p>
+            <p>Then did he deſire that his Relations,
+<pb n="18" facs="tcp:108905:19"/>and the reſt of the Family might be call<g ref="char:EOLhyphen"/>ed up, that ſo he might make known unto them that immenſe weight of Glo<g ref="char:EOLhyphen"/>ry, which that night had been revealed unto him. When they were aſſembled, he did with vehemency, and intention of ſpirit, endeavour to diſcover the ſame unto them in expreſſions as afore<g ref="char:EOLhyphen"/>ſaid:<note place="margin">Jov un<g ref="char:EOLhyphen"/>ſpeakable.</note> But he was ſo ſwallowed up in the Contemplations thereof, that he could not utter what he deſired: And ſo he continued all that day, and even till he dyed in very high Raptures, and great acclamations, by way of thank<g ref="char:EOLhyphen"/>fulneſs unto God for the <hi>Lord Jeſus Chriſt,</hi> the Fountain of that Glory, and for thoſe evident diſcoveries of the ſame unto him.</p>
+            <p>Towards the evening of that <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd Day,</hi> an Honourable Perſon, together with his Lady and ſome other Friends came to viſit him, with whom he diſ<g ref="char:EOLhyphen"/>courſed about Heaven,<note place="margin">Heavenly diſcourſe.</note> and the thing of God as underſtandingly, fervently and fluently, as if he had enjoyed hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beſt health; His underſtanding, and memory continuing as ſtrong, and vi<g ref="char:EOLhyphen"/>gorous as ever; in his diſcourſe quoting ſeveral places of Scripture, citing the
+<pb n="19" facs="tcp:108905:19"/>very Chapter, Verſe, and words of the Texts, and explaining the mean<g ref="char:EOLhyphen"/>ing from the <hi>Hebrew,</hi> and <hi>Greek</hi> Ori<g ref="char:EOLhyphen"/>ginals.</p>
+            <p>After this diſcourſe, which continu<g ref="char:EOLhyphen"/>ed about the ſpace of two hours, find<g ref="char:EOLhyphen"/>ing himſelf weary, he betook himſelf to bed, all the company withdrawing into another Chamber. After an hours repoſe, he deſired that the ſaid Ho<g ref="char:EOLhyphen"/>nourable Perſon, with his Lady, and other Friends, might be called in again, that he might ſpeak ſomething more unto them, and when they, with the reſt of the Family were come into his Chamber, he told them, that he thought he had but a ſhort time to live. That he was going to <hi>Jeſus Chriſt,</hi> with him to enjoy the fulneſs of Joy, and thoſe Rivers of pleaſure, which God had lately diſcovered unto him, and which he had laid up in Heaven for ſuch as love him, and keep his Commandments. O ſaid he! <hi>If you had but a thorow ſight thereof, it would make you all to love</hi> Jeſus Chriſt, <hi>and holineſs, which is the only way preſcribed by God to at<g ref="char:EOLhyphen"/>tain to this Happineſs.</hi> And then he went on to magnifie the riches of free
+<pb n="20" facs="tcp:108905:20"/>Grace, through which alone the Saints do come to enjoy that exceeding, ex<g ref="char:EOLhyphen"/>ceeding, eternal weight of Glory, which neither eye hath ſeen nor eat hath heard, nor can enter into the heart of man to conceive of.</p>
+            <p>He exhorteth them not to trouble themſelves ſo much in labouring to ge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſſurance of Salvation,<note place="margin">Good Counſel.</note> as to exam<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> themſelves carefully, and diligently whether they were in the way of Sancti<g ref="char:EOLhyphen"/>fication: And for this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, he com<g ref="char:EOLhyphen"/>mended two things to their ſerious medi<g ref="char:EOLhyphen"/>tations, about which, he adviſed them daily to ask their Souls theſe two Que<g ref="char:EOLhyphen"/>ſtions: <hi>What am I?</hi> And, <hi>Where am I? What am I?</hi> Am I a New Crea<g ref="char:EOLhyphen"/>ture? Am I born again? I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo, then New Thoughts, New Words, New Company, and a New Converſation will appear. All old Thoughts, Words, and Actions will be done away. Secondly, <hi>Where am I?</hi> Am I in that narrow way that leads to Life Eternal, or in that broad way that leads to Death, and Damnation? He told them that if any there preſent were ſtill in the broad way, it had been better that they had never been born. And
+<pb n="21" facs="tcp:108905:20"/>(ſaid he) <hi>If you will make this your continual meditation, you cannot miſ<g ref="char:EOLhyphen"/>carry: And if you find yourſelf to be in the narrow way, the Way of San<g ref="char:EOLhyphen"/>ctification, let God a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne with the Reſt, to give you an aſſurance of your future happineſs, which he will do in his own time.</hi>
+            </p>
+            <p>He farther declared to them,<note place="margin">His Per<g ref="char:EOLhyphen"/>ſeverance.</note> that as by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Preaching through the whole courſe of his Miniſtry, he had diſcover<g ref="char:EOLhyphen"/>ed, and publiſhed this way of holineſs, through <hi>Chriſt</hi> to be the only way to Heaven, ſo could he now at his death ſet forth no other way: And that if he were now again to begin his Miniſtry, he could hold forth no other way to attain unto Glory. And ſo with much earneſtneſs of ſpirit, looking up towards Heaven, he begged of God that the words of a dying man might make a deep impreſſion upon the hearts of his Hearers: And that, as God had made him an Inſtrument of converting many Souls unto him in his Life, ſo he would bleſs what he had now ſpoken, that ſome one Soul might be brought to <hi>Jeſus Chriſt,</hi> by this his laſt Sermon. Then he proceeded to further Heavenly
+<pb n="22" facs="tcp:108905:21"/>diſcourſes, and Inſtructions, quoting ſundry Texts of Scripture for the proof of what he ſpake, naming the Chap<g ref="char:EOLhyphen"/>ters, Verſes, and words of the Texts, which he opened, and explained out of the Originals, with that acuteneſs, and ſtrength of words, with that zeal, and fervency of ſpirit as was admirable, ſo that he drew tears from the eyes of all that were preſent, whether young or old. And left any there preſent ſhould think that his underſtanding and memory were grown weak, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that he was overcome through the abundance of Revelation which he had the night before, to let them know that he had ſpoken to them the words of truth and ſoberneſs, and that with a perfect underſtanding of what he ſpake, he made this Narrative follow<g ref="char:EOLhyphen"/>ing. He told them the manner of his education in Religion from his child<g ref="char:EOLhyphen"/>hood, and of the vanity which did attend his youthful daies: and where, and how God did appear to him for his Converſion at twelve years of his age, and of the aſſurance which God had given him (as is before related) that he ſhould be an Inſtrument of con<g ref="char:EOLhyphen"/>verting
+<pb n="23" facs="tcp:108905:21"/>many Souls to God. As alſo of his proficiency in learning from that ve<g ref="char:EOLhyphen"/>ry time.</p>
+            <p>He farther declared (with tears trickling down his cheeks) that he had many and many a time,<note place="margin">A faithfull Paſtor.</note> in pri<g ref="char:EOLhyphen"/>vate, before he went to Preach, put God in mind of that Promiſe ſo made unto him, and earneſtly beſought him to make good that Promiſe, by giving a bleſſing to that Word of his, which he was then going to deliver, that ſome Glory might redound to his holy Name thereby: To which his Prayers, God had often been pleaſed to give a gracious Anſwer, and to let him know it, by the Converſion of ſome, by thoſe Sermons.</p>
+            <p>One of his Relations then preſent, fearing that his Spirits would be weak<g ref="char:EOLhyphen"/>ened and ſpent by that his continued diſcourſe, deſired him to repoſe him<g ref="char:EOLhyphen"/>ſelf for a while: To whom he replyed, with much earneſtneſs, and ſtrength of voice: <hi>No,</hi>
+               <note place="margin">His Zeal.</note> 
+               <hi>were I ſure that this ſhould be my laſt night</hi> (as indeed it proved) <hi>and the laſt Sermon that I ſhould Preach, I would continue it two hours longer.</hi> Adding, that he was not afraid of
+<pb n="24" facs="tcp:108905:22"/>Death: And turning his Head back<g ref="char:EOLhyphen"/>ward, he ſaid, <hi>Death is a Coward; he comes behind me:</hi>
+               <note place="margin">His Tri<g ref="char:EOLhyphen"/>umph.</note> 
+               <hi>He dares not look me in the Face.</hi> And farther he ſaid, <hi>The Devil hath oft aſſaulted me in my Life time: But God ſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by me, and give me ſtrength to reſiſt him, ſo that he could never hurt me.</hi>
+            </p>
+            <p>All that day following he lay in Hea<g ref="char:EOLhyphen"/>venly Contemplation and Raptares,<note place="margin">His Rap<g ref="char:EOLhyphen"/>tures.</note> often breaking forth in Praiſes unto God for <hi>Jeſus Chriſt.</hi> And would ſome<g ref="char:EOLhyphen"/>times deſire his Wife, and other Friends to tell him whether he were in the Bo<g ref="char:EOLhyphen"/>dy, or out of the Body: for he could not tell. And a Miniſter being the in the Houſe, he deſired that he might be called in: and when he was come, he propounded the ſame Queſtion unto him: who anſwered, That he was in Life, and among his Friends on Earth, and therefore in the Body: To this he replyed, <hi>It is true,</hi> and therewith reſted ſatisfred, and deſired the Mini<g ref="char:EOLhyphen"/>ſter to pray with him: which he did accordingly.</p>
+            <p>His Wife told him that ſome Friends preſent hoped that he might yet live: To which he anſwered, <hi>Can a Dead
+<pb n="25" facs="tcp:108905:22"/>man live? Will God work Miracles?</hi> Shortly after he ſaid, <hi>God is doing great things in the world:</hi> and he much be<g ref="char:EOLhyphen"/>wailed the ſad condition of the Church of <hi>Chriſt,</hi> &amp;c.</p>
+            <p>In the afternoon,<note place="margin">The power of Death.</note> finding Death to approach, he often cryed out, <hi>O the power of Death!</hi> Not that he feared it; for it ſhrunk from him: but he found ſuch a Power in Death as <hi>none</hi> could know but thoſe that were under it. He wiſhed that his Sons had been preſent, that they might ſee what the Power of Death was, and what it was to die. He deſired alſo that ſome Neighbours of the Town might be called in, that he might Preach his laſt Sermon to them. And indeed, to this very time his ſpi<g ref="char:EOLhyphen"/>rits, ſpeech, and memory continued very active and ſtrong.</p>
+            <p>About four a clock in the afternoon, his Wife, and his Wives Brother and Siſter, ſtanding by his bedſide, asked him how he did? He anſwered: <hi>Very Weak:</hi> Adding; That he was going to <hi>Jeſus Chriſt:</hi>
+               <note place="margin">Death not to be fear<g ref="char:EOLhyphen"/>ed.</note> Bid them not be afraid of Death: with which words he put forth his hand, and ſaid; <hi>Brother, Siſter, Take Death by the Hand; Be not afraid,
+<pb n="26" facs="tcp:108905:23"/>Death is a coward: He flies from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> They found that his Hands were cold and Clammy, whereby they perceived that he grew near to his end. And himſelf, not long after, feeling that the diſſolution of this earthly Tabernacle was now ap<g ref="char:EOLhyphen"/>proaching, lifting up his eyes towards Heaven, he cryed out, <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd Je<g ref="char:EOLhyphen"/>ſus:</hi>
+               <note place="margin">His bleſſed Death.</note> And preſently, with a ſmiling countenance, he added, <hi>Art thou C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me?</hi> And ſo he breathed out his la<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>Thus Reader, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> through the more conſiderable paſſages of this bleſſed mans Life, and Death Pauſe here a while, and take a view <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all again, and then ſurely thou canſt n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but wiſh (though it is deſired for thee that it may be from a better Principle than was in <hi>Balaam</hi>) Let me die the Death of this bleſſed man, and let my laſt end be like his. But in vain ſhak thou wiſh for this, if the pattern of his Holy, and Exemplary Life be neglect<g ref="char:EOLhyphen"/>ed by thee.</p>
+            <p>It is Storied that a perſon of a looſe Life, that hearing what a comfortable end St. <hi>Bernard</hi> made, ſaid to his com<g ref="char:EOLhyphen"/>panions: <hi>I would willingly die like St.</hi> Bernard, <hi>but I would live like you.</hi> Its
+<pb n="27" facs="tcp:108905:23"/>too certain that many are of the ſame mind: but as it is impoſſible, but that an holy Life ſhould have a bleſſed and happy Death (<hi>Mark the perfect man, and behold the <g ref="char:V">Ʋ</g>pright: For the end of that man is Peace, Pſalm</hi> 37.37.) So it is as impoſſible (in an ordinary way) that a looſe and wicked Life ſhould have any other than a miſerable and uncom<g ref="char:EOLhyphen"/>fortable Death, though ſome deluſive, fadeing flaſhes of ſeeming comfort they may ſometimes have, yet are but as a blaze of Thorns, that is ſuddenly ex<g ref="char:EOLhyphen"/>tinct. For God himſelf hath ſaid it: <hi>There is no Peace to the wicked, Iſa.</hi> 48.22. And again: <hi>The wicked are driven away in their wickedneſs: But the Righteous hath Hope in his Death: Im<g ref="char:EOLhyphen"/>pius dum ſpirat ſperat: Sed Juſtus cum exſpirat ſperat.</hi> The wicked Hope while they live, with a vain, un<g ref="char:EOLhyphen"/>grounded Hope: But the Righteous hope when they die, with a lively, and well-grounded Hope, that never leaves them till it brings them to frui<g ref="char:EOLhyphen"/>tion.</p>
+            <p>There yet remain ſome things, which could not well be reduced to any one part of the Narrative of this worthy
+<pb n="28" facs="tcp:108905:24"/>Perſons Life, and becauſe they did, like ſo many Golden Threads, paſs through the whole Web; or like the ſpirits in the blood, which run through the whole Body: and therefore theſe were thought ſit to be reſerved to the cloſe of all, that the Reader may have a view of them altogether. And they are ſuch Graces as were very remarkable in this <hi>Man of God.</hi> For ſo I call him; no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only becauſe he was a Miniſter, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gods Servant in a more <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but alſo in regard of thoſe eminent, and excellent Virtues, appearing in him, by which God did ſet his Mark, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Seal upon him, as his peculiar Trea<g ref="char:EOLhyphen"/>ſure. And theſe Graces were ſo con<g ref="char:EOLhyphen"/>ſpicuous in him, that all that knew, and were acquainted with him, will readily atteſt to the Truth of them.</p>
+            <p>And they may be thus ranked in Or<g ref="char:EOLhyphen"/>der.</p>
+            <p n="1">1. His great Humility, and meekneſs of Spirit.</p>
+            <p n="2">2. His diligence, and induſtry in his Calling.</p>
+            <p n="3">3. His Zeal, and fervor, manifeſt<g ref="char:EOLhyphen"/>ing it ſelf in his Praying, Preach<g ref="char:EOLhyphen"/>ing, and Conference, and ſtrict
+<pb n="29" facs="tcp:108905:24"/>obſervation of the <hi>L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, Day.</hi>
+            </p>
+            <p n="4">4. His Liberality, and Bounty upon all good occaſions.</p>
+            <p n="5">5. His great Candour, and Ingenui<g ref="char:EOLhyphen"/>ty.</p>
+            <p n="6">6. His Faith, and Patience.</p>
+            <p>Firſt to begin with his Humility,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> as that excellent Grace which embelliſhed, and gave a luſtre to all the r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt, and is often inculcated, and injoyned in the holy Scriptures, and was moſt admir<g ref="char:EOLhyphen"/>able in our bleſſed Lord and Saviour <hi>Jeſus Chriſt,</hi> who propoſes himſelf as a Pattern to us in that grace eſpecially<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And ſurely all that knew this worthy Doctor, will readily acknowledge this to have been very eminent in him, and that not only in his words, and Garb, and ſome trivial actions, which may eaſily be perſonated, and counter<g ref="char:EOLhyphen"/>feited: As they were in the Fryer, who went ſeemingly dejected, and alwaies looking down ward to the Earth, untill he was made an Abbot, and then he altered his Mode, and gave this reaſon for it: That he had long been looking for the Keyes of the Abbey, and that now having found them, he need no longer do according to his for<g ref="char:EOLhyphen"/>mer
+<pb n="30" facs="tcp:108905:25"/>cuſtom. But in this perſon, Hu<g ref="char:EOLhyphen"/>mility was of an higher ſtrain, and more deeply radicated in his heart. And truly it was the more admirable in him, becauſe he had divers things which might have elevated his thoughts, and puffed up his heart with Pride, as a plentiful eſtate, a conſiderable rank in the world, and great abilities: But theſe were poor things in his eſteem. He could condeſcend to men of the low<g ref="char:EOLhyphen"/>eſt rank: He uſed to magnifie the abi<g ref="char:EOLhyphen"/>lities of others, whilſt he thought, and ſpake meanly of his own, and was not offended if others did the like. He could eaſily bear the Contradictions of others, and ſtoop to the loweſt offices to do good to Souls. Its well known that he would go to the pooreſt Neigh<g ref="char:EOLhyphen"/>bours houſes in his Pariſh, and there ſit, and diſcourſe with them about the great, and weighty concernments <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Souls: Queſtioning with them, and inſtructing them: And at his de<g ref="char:EOLhyphen"/>parture would give them ſome money that by his deeds he might add the greater weight to his words;<note place="margin">His <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> and ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his next return the more welcome And this he did, nor to gain <hi>Pre<g ref="char:EOLhyphen"/>ſelytes</hi>
+               <pb n="31" facs="tcp:108905:25"/>to himſelf, or a Name among men; but to gain them to <hi>Chriſt,</hi> and to be a means in furthering the Salvati<g ref="char:EOLhyphen"/>on of their Souls.</p>
+            <p>Secondly, His diligence,<note place="margin">His Indu<g ref="char:EOLhyphen"/>ſtry.</note> and In<g ref="char:EOLhyphen"/>duſtry in his Calling was very great, and exemplary: A hard Student he was, and ſo continued to the laſt. It is ſcarce credible, but to thoſe that ſaw, and knew it, what a great number of Books were found in his Library, filled with Tranſcriptions from the Au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hours he read, beſides pieces of Con<g ref="char:EOLhyphen"/>troverſie, and obſervations of his own. And indeed there were few Books that he read, but he drew Notes out of them, and made Marks in them of what was moſt conſiderable. To which, if we add all his Manuſcripts (which had been the ſumm of near twenty years ſtudy) loſt in the time of the late Wars, we cannot but conclude him to have been a moſt faithful, and painful la<g ref="char:EOLhyphen"/>bourer in Gods Vineyard. His daily <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ractice declared him to be a perſon, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>areful to Redeem Time, and fearfull <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> loſe, or waſt it.</p>
+            <p>As ſoon as he was out of his bed in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he morning, whilſt he dreſſed himſelf,<note place="margin">His Stu<g ref="char:EOLhyphen"/>diouſneſs.</note>
+               <pb n="32" facs="tcp:108905:26"/>his Wife, or a Servant read to him ſome Chapters in courſe, out of the Old and New Teſtament. When he was dreſt, he retired himſelf into his Study, where he ordinarily continued till he was called down to Prayer, and Dinner. After which, for better di<g ref="char:EOLhyphen"/>geſtion, he intermitted his Studies, and took opportunity of diſcourſe with Friends, and Neighbours that came to viſit him, who knew that to be the only time wherein they might find him at leaſure. For he uſed to forbid any to come to him in the forenoon, that his ſtudies might not be interrupted. And after two or three hours intermiſ<g ref="char:EOLhyphen"/>ſion, he returned into his ſtudy again, where for the moſt part,<note place="margin">His <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> he continued, both Summer, and Winter, till about eight a clock at night, ſeldom eating any Supper, or very ſparingly.</p>
+            <p>When he was come down, calling his Family together, he read a Chapter in courſe, gave the ſenſe of it, went to Prayer, and ſo to bed; often grudgeing the time that he ſpent in ſleep,<note place="margin">Time pre<g ref="char:EOLhyphen"/>cious.</note> and eating. To this may be added, that as it was his care to be well prepared before he went to Preach (for he would
+<pb n="33" facs="tcp:108905:26"/>not offer either to God or man that which coſt him nothing) ſo did he ſtrive to get his heart into a right frame for Preaching, that from the heart, he might ſpeake to the hearts of his hearers, as he uſed often to ſay: and to obtain aſſiſtance from God there<g ref="char:EOLhyphen"/>in, he uſed by private Prayer to beg Gods bleſſing upon his labours. It was his frequent ſaying: <hi>That he was as circumſpect, and diligent in ſtudying what he was to deliver, as if be expected no aſſiſtance from</hi> Chriſt; <hi>yet when be came to Preach, diſowning his own en<g ref="char:EOLhyphen"/>deavours, he wholly cat himſelf upon</hi> Jeſus Chriſt <hi>for ſtrength and aſſiſtance, as if he had not ſtuyed at all:</hi> And that God had oftentimes ſuggeſted ſuch mat<g ref="char:EOLhyphen"/>ter into his mind, in the delivery of his Sermons, as he had not thought on before, which he obſerved, God did abundantly bleſs to the Comfort, and Edification of the Auditors.</p>
+            <p>He would often ſay: <hi>That his op<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ortunities were his Riches;</hi> and he was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>areful to improve them: whence it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eldome came to paſs that he Preached without making ſome reall impreſſion upon his hearers, which was diſcover<g ref="char:EOLhyphen"/>ed
+<pb n="34" facs="tcp:108905:27"/>by the Tears that fell from many of them.</p>
+            <p>Thirdly,<note place="margin">His Zeal.</note> In the next place his zeal and fervour deſerves our conſideration. It was the Counſel of a grave Divine, <hi>That Chriſtians ſhould take heed that their old judgements, did not abate their youthful affections.</hi> And certainly there was in this our old Doctor, ſuch warmth of affections as is ſeldom ſeen in ſo an<g ref="char:EOLhyphen"/>tient a man, and yet was it mannaged with ſuch Chriſtian Prudence, that he exerciſed it, not about light and tri<g ref="char:EOLhyphen"/>vial matters, but about the greater, and more ſubſtantial points of Religion; and that through the whole courſe of his Life: Whether he Preached, Pray<g ref="char:EOLhyphen"/>ed, or diſcourſed about Divine things, all was performed with much zeal, and heat of affections. He was <hi>fervent in ſpirit, ſerving the Lord, Rom.</hi> 12.11. How glad was he of an opportunity of Preaching, and if his liberty could have been purchaſed with money, what would he not have given for it?</p>
+            <p>He was very affectionate in Prayer,<note place="margin">His Pru<g ref="char:EOLhyphen"/>dence.</note> and yet were his affections ſo tempered with Prudence, and Judgement, that
+<pb n="35" facs="tcp:108905:27"/>though upon extraordinary occaſions he would d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>large himſelf therein, yet in his Family Prayers, he was uſually ſhort, that ſo he might not make Reli<g ref="char:EOLhyphen"/>gious duties a burthen to thoſe that joyn<g ref="char:EOLhyphen"/>ed with him. And as his Prayers were fervent, ſo he had this honour from God, that he had many ſignal returns, and anſwers to his Prayers, as we ſhall hear afterwards, and as can be atteſted by many who received benefit by them both for Soul, and Bodily diſtempers, and affections. He was conſcienciouſly ſtrict in the obſervation of the <hi>Lords Daies;</hi>
+               <note place="margin">The Sab<g ref="char:EOLhyphen"/>bath San<g ref="char:EOLhyphen"/>ctified.</note> not permitting any diſcourſes in his preſence, but ſuch as were ſui<g ref="char:EOLhyphen"/>table to the Day, and to the Duties thereof: Rebuking, and reproving ſuch as would take liberty to diſcourſe about their worldly buſineſſes upon Gods Day.</p>
+            <p>Fourthly, His liberality and bounty were as eminent,<note place="margin">His boun<g ref="char:EOLhyphen"/>ty and cha<g ref="char:EOLhyphen"/>rity.</note> and exemplary as any of his other Graces. God gave him a good Eſtate, ſo a large heart, which was a double mercy. He was <hi>rich in good works, ready to diſtribute, will<g ref="char:EOLhyphen"/>ing to communicate: Laying up in ſtore for himſelf a good Foundation againſt the
+<pb n="36" facs="tcp:108905:28"/>time to come,</hi> 1 <hi>Tim.</hi> 6.18, 19. He hath been often heard to ſay: That he could fare hardly, and go meanly, that he might be the better enabled thereby to be charitable unto others that were in want: And it is believed that few of his eſtate and rank exceeded him herein. Seldom did any neceſſitous Perſons come to him, ſeldom did he hear of the neceſſiti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of others, though at a diſtance from him, but they taſted of his Bounty.</p>
+            <p>He gave large ſumms of money every year, for divers years together, to pious and charitable uſes, as his Wife can teſtifie, who kept an account in writing of the ſeveral ſumms ſo disburſ<g ref="char:EOLhyphen"/>ed by him. Towards the relief of the poor, perſecuted Proteſtants in <hi>Pi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mont,</hi> he gave thirty pounds; and as much the ſame year to another charitable uſe. He gave alſo ſeveral conſiderable ſumms yearly for the ſupport and encourage<g ref="char:EOLhyphen"/>ment of ſome poor Schollars in the Univerſity of <hi>Dublin,</hi> beſides a large ſumm of money disburſed out of his own purſe towards furniſhing the Li<g ref="char:EOLhyphen"/>brary there with Books. And as he had thus ſundry waies exerciſed his Bounty
+<pb n="37" facs="tcp:108905:28" rendition="simple:additions"/>whilſt he lived, ſo at his Death, he gave large Legacies to pious and charitable uſes: and God made good that Pro<g ref="char:EOLhyphen"/>miſe to him, <hi>Iſa.</hi> 58.10. <hi>If thou draw out thy Soul to the hungry, and ſa<g ref="char:EOLhyphen"/>tisfie the afflicted Soul: Then ſhall thy Light riſe in obſcurity, and thy dark<g ref="char:EOLhyphen"/>neſs be as the Noon-day.</hi>
+            </p>
+            <p n="5">5. To this Grace of Charity may be added his Candour,<note place="margin">His Can<g ref="char:EOLhyphen"/>dour.</note> and courteous de<g ref="char:EOLhyphen"/>portment, which gave a luſtre to his Bounty; according to that of the Po<g ref="char:EOLhyphen"/>et,</p>
+            <q>
+               <l>Dat benè, dat multum,</l>
+               <l>Qui dat cum munere vultum.</l>
+            </q>
+            <p>He was not apt to be offended with others, much leſs apt to offend others.<note place="margin">His Meek<g ref="char:EOLhyphen"/>neſs.</note> He alwaies interpreted to the beſt ſenſe that which might ſeemingly have mini<g ref="char:EOLhyphen"/>ſtred occaſion of offence; by which ex<g ref="char:EOLhyphen"/>cellent temper, he drew love and reſ<g ref="char:EOLhyphen"/>pect to himſelf whereſoever he came, and with whomſoever he converſed, whether in private Families, or in his more publick imployments.</p>
+            <p>Sixthly, In the laſt place his Faith,<note place="margin">His Faith, and Pati<g ref="char:EOLhyphen"/>ence.</note> and Patience calls for our conſideration:
+<pb n="38" facs="tcp:108905:29"/>of which, as he had given good proof in the whole courſe of his Life, ſo they eminently ſhon forth when he came to die. In the time of his ſickneſs he ſhewed an holy, humble, and chear<g ref="char:EOLhyphen"/>ful reſignation of himſelf to the wife and merciful diſpoſal of God his Hea<g ref="char:EOLhyphen"/>venly Father: Not one repining word was heard to proceed out of his mouth. <hi>He was dumb, and opened not his mouth, becauſe it was the Lord that did it, Pſalm</hi> 39.9. There was not any impatient, or uncomly motion ſeen in him: but being full of Faith, of Chriſtian Patience and courage, he feared not Death, but was well pre<g ref="char:EOLhyphen"/>pared, and reſolved againſt that ſtroke of it: And would often ſay, <hi>O how happy a thing is it by Death to be about a poſſibility of Sinning!</hi>
+            </p>
+            <p>The Heathen Philoſophers called Death, <hi>The moſt terrible of all terribles:</hi> and the Sacred Scripture calls it, <hi>The King of terrours.</hi> It is Storied, that one hearing a perſon highly commend<g ref="char:EOLhyphen"/>ed for his excellent Virtues, ſaid, <hi>Let us ſtay till his Death, and then we ſhall be the better able to judge of all theſe things which make ſuch a glittering
+<pb n="39" facs="tcp:108905:29"/>ſhew in him for the preſent.</hi> And cer<g ref="char:EOLhyphen"/>tainly, to be able to look the King of Terrou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in the Face, without con<g ref="char:EOLhyphen"/>ſternation, and to meet the laſt enemy <hi>[Death]</hi> with Joy, and conſolation,<note place="margin">His Perſe<g ref="char:EOLhyphen"/>verance.</note> is no ſmall evidence of a true, and ſtrong Faith: and this was evidently ſeen, and diſcerned in this worthy Doctor at the time of his Death.</p>
+            <p>He often declared in his health, that in his younger daies he had been ſorely vexed, and peſtered with Satans Temp<g ref="char:EOLhyphen"/>tations: but at laſt, meeting with a plain, honeſt Chriſtian (ſuch an other, probably, as the Shepherd was with whom <hi>Junius</hi> met) to whom, complaining of his fears, he firſt rebuk<g ref="char:EOLhyphen"/>ed him, and then inſtructed him,<note place="margin">Good Counſel.</note> ſaying, <hi>You look at the reward, with<g ref="char:EOLhyphen"/>out minding, and intending the Work, in that you deſire, and expect Aſſur<g ref="char:EOLhyphen"/>ance, before you have well reſolved upon doing your Duty. My advice therefore is, to mind what God requires of you in your preſent ſtation, and be ſerious, and diligent therein, and the other will come in Gods due time.</hi> This ad<g ref="char:EOLhyphen"/>vice, he profeſſed, was of great uſe to him all his Life after: ſo that after that
+<pb n="40" facs="tcp:108905:30"/>time he was not troubled with ſuch perplexing thoughts as formerly he had been: but lived, and dyed in Peace, both with God and man, in the great Climacterical year of his Age: <hi>October</hi> 22. 1666.</p>
+            <p>
+               <hi>Examples of his power, and preva<g ref="char:EOLhyphen"/>lency in Prayer.</hi>
+            </p>
+            <p>The wiſe <hi>Solomon</hi> tells us, <hi>Prov.</hi> 12.2. That <hi>a good man obtaineth favour of the Lord:</hi> That is, He hath what he will of God. <hi>Id quod vult, à Domino impetrat; quia eius voluntas eſt ipſiſſima Dei voluntas; nec aliud vult:</hi> As <hi>Mercer</hi> hath it, out of <hi>Rab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i Levi.</hi> It is written of <hi>Luther, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e vir potuit à Deo quicquid voluit:</hi> That by his Prayers he could prevail with God at his pleaſure. <hi>Melancthon,</hi> and <hi>Myconius,</hi> being ſick of deſperate diſ<g ref="char:EOLhyphen"/>eaſes, were both recovered by <hi>Luthers</hi> Prayers. <hi>Sozomen</hi> ſaith of <hi>Apollonius,</hi> that he never asked any thing of God in all his Life which he obtained not Bleſſed is he that hath what he will, and wills nothing but what he ſhould. The Perſons of Saints (ſaith a Reve<g ref="char:EOLhyphen"/>rend Divine) are like ſecret pledges of common quiet, and their mediations
+<pb n="41" facs="tcp:108905:30"/>are a Shield to the Earth againſt the wrath of Heaven. We have many ex<g ref="char:EOLhyphen"/>amples in Scripture of the power, and ef<g ref="char:EOLhyphen"/>ficacy of Prayer; and leſt any ſhould think that thoſe were extraordinary, and that the like are not to be found in our daies, take notice of theſe inſtances following.</p>
+            <p n="1">I. When Mr. <hi>Winter</hi> in his younger daies was caſt out of his living, his firſt Wife, having many Children, fell into great grief, and perplexity, fear<g ref="char:EOLhyphen"/>ing that the, and hers would come to want. Mr. <hi>Winter</hi> was much troubled to ſee his Wives diſcontents, and there<g ref="char:EOLhyphen"/>upon plyed the Throne of Grace for cure thereof: and one day, as he was riding abroad, and crying earneſtly un<g ref="char:EOLhyphen"/>to God about this matter, he thought that he heard a voice ſaying unto him, <hi>Becauſe thou haſt not ſpared thine eſtate for my glory, neither thou, nor any of thine ſhall want.</hi> At his return home he told this to his Wife with Joy, ſaying, <hi>That he would not for all he was worth want that comfortable anſwer to his Prayers.</hi>
+            </p>
+            <p n="2">II. When an Order was ſent to Mr. <hi>Winter</hi> from the Parliament to go with
+<pb n="42" facs="tcp:108905:31"/>their Commiſſioners into <hi>Ireland;</hi> his Wife was very unwilling thereunto; and ſome of their near Relations came on purpoſe to diſſwade him from it, himſelf alſo was very fearful of the Seas. In this his great ſtreight, he retired into his Study (as his uſual manner was in the like Caſes) and there with much earneſtneſs he ſpread the matter before God, craving <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> guidance, and direction therein: And the Lord was pleaſed to ſet it upon his ſpirit, that he ſhould go, and be carryed in ſafety thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner, and there become an Inſtrument of converting many Souls to God. When he had declared this to his Wife and Friends, they acqui<g ref="char:EOLhyphen"/>eſced, and reſolved upon that Journey. And according to this gracious Promiſe of God, though they took Shipping in the midſt of Winter, and went with a Maſter that was not very well acquaint<g ref="char:EOLhyphen"/>ed with thoſe Seas, yet they found the Seas Calme, and their paſſage ſo ſpeedy, that whereas ſome other great Perſons went out before them, and with a more experienced Maſter, yet they ar<g ref="char:EOLhyphen"/>rived in ſafety, about four and twenty hours before them, inſomuch as the
+<pb n="43" facs="tcp:108905:31"/>Captain of the Ship ſaid, That in his whole life he had never known ſo ſpeedy, and calme a paſſage before.</p>
+            <p n="3">III. Not long after Mr. <hi>Winters</hi> coming into <hi>Ireland,</hi> he went with the Commiſſioners unto <hi>Kilkenny,</hi> in which place Collonel <hi>Jones</hi> his Wife fell very ſick of the Yellow Jandiſe, and ſome other diſtempers: For which cauſe her Husband called together ſome Miniſters, and other Friends to ſpend ſome hours in prayer unto God on her behalf: Mr. <hi>Winter</hi> was the laſt man that prayed: but before he began, he went to her, and asked her, <hi>Whether ſhe had Faith to be healed?</hi> She anſwered, She thought ſhe had: Then he went to prayer, and wreſtled exceedingly with God for her recovery: And when he had done, he went to her, and adviſed her to be careful, and diligent in the uſe of all good means for the recovery of health, adding, That ſhe ſhould live, and not die at that time. At this ſaying, his Wife, and her Siſter were much trou<g ref="char:EOLhyphen"/>bled, telling him in private, that they had rather have given much money than that he ſhould have ſpoken ſo confident<g ref="char:EOLhyphen"/>ly of her recovery among ſo many <hi>Ana<g ref="char:EOLhyphen"/>baptiſts:</hi>
+               <pb n="44" facs="tcp:108905:32"/>Fearing that if this words proved true, they might be confirmed in their <hi>Enthuſiaſtical</hi> conceits: if other<g ref="char:EOLhyphen"/>wiſe, then that they might take oc<g ref="char:EOLhyphen"/>caſion to ſcandalize his Perſon, and Miniſtry: but he again affirmed, that ſhe would not die of that ſickneſs.</p>
+            <p>Yet after this ſhe continued very weak for a month, or mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: Her Doctors gave her up for a dead woman: whereupon Mr. <hi>Winters</hi> Wife again blamed him for his confident ſaying, that ſhe muſt live: To which he ſmil<g ref="char:EOLhyphen"/>ingly anſwered, <hi>Well, ſhe is not yet dead.</hi> At length her diſeaſe ſo prevailed, that ſhe loſt the uſe of her ſenſes; and her Servants weeping about her, ſaid, now ſhe i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> near death indeed. The <hi>Saturday</hi> following, as Mr. <hi>Winter</hi> ſat at dinner, a meſſenger came to him from Collonel <hi>Jones,</hi> to tell him, That if he would ſee his Wife alive, he muſt come away preſently, for that ſhe was now a dying. At this Mrs. <hi>Winter</hi> was much troubled, becauſe of her Husbands former confi<g ref="char:EOLhyphen"/>dence in premiſing her Life. But Mr. <hi>Winter</hi> made no great haſt to be gone, ſaying, <hi>That he well knew when God an<g ref="char:EOLhyphen"/>ſwered his Prayers, and when no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <pb n="45" facs="tcp:108905:32"/>
+            <p>After he had dined, he went to the Houſe, where he found the Collonel ſitting by her, ready to cloſe her eies ſo ſoon as breath departed out of her bo<g ref="char:EOLhyphen"/>dy: for ſo ſhe had enjoyned him in the time of her health. She lay ſpeechleſs and without ſenſe; not anſwering, nor moving her eyes, though her Husband, and Mr. <hi>Winter</hi> called unto her: where<g ref="char:EOLhyphen"/>upon her Husband thought that ſhe had loſt her hearing. Mr. <hi>Winter</hi> deſired that he might pray with her, but her Huſ<g ref="char:EOLhyphen"/>band refuſed, ſaying, that ſhe was ſenſ<g ref="char:EOLhyphen"/>leſs, and had been a dying all that morn<g ref="char:EOLhyphen"/>ing. Mr. <hi>Winter</hi> again urged that he might pray with her. No, (ſaid the Collonel) it is to no purpoſe: She is now a dead woman. And Mr. <hi>Winter urged the third time that he might pray, ſaying, Her life is yet in her, and ſo he went to prayer, which he performed with much earneſtneſs, and with many t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ars.</hi>
+            </p>
+            <p>When Prayer was ended, Mr. <hi>Winter</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oing to her Bedſide, ſhe looked upon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m, and with a ſmiling countenance, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id, <hi>O! See the fruit of Prayer! O! <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e the fruit of Prayer! Set me up, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve me ſomething to eat: I am cured;
+<pb n="46" facs="tcp:108905:33"/>but not by Doctors: Only Free-Grace, and Prayers have prevailed with God for me.</hi> They asked her what ſhe could eat? She anſwered, any thing. They gave her ſome bread and butter, of which ſhe did eat pretty heartily. Then did her Huſ<g ref="char:EOLhyphen"/>band ſend for her Doctors: But ſhe bad them not to provide any more Phyſick for her, ſaying, She would take none: For ſhe would not diſhonour God, and wrong Prayer ſo much (by which ſhe was now cured) as to take any more Phyſick: nor could ſhe be by any means perſwaded to it.</p>
+            <p>On <hi>Munday</hi> following in the after<g ref="char:EOLhyphen"/>noon, Mrs. <hi>Winter</hi> heard that Mrs. <hi>Jones</hi> was walking in her Garden, which ſhe wondring at, went to ſee her, and found her there. So ſoon as ſhe ſaw Mrs. <hi>Win<g ref="char:EOLhyphen"/>ter,</hi> ſhe went to meet her, and ſaid. <hi>Oh! See the fruit of Prayer!</hi> Mrs <hi>Win<g ref="char:EOLhyphen"/>ter</hi> bleſſed God for her recovery: where<g ref="char:EOLhyphen"/>upon She ſaid, <hi>My Doctors would b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> me take ſome more Phyſick of them: B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it is God that hath cured me, and he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall have the praiſe of it. I will take n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thing of them. They ſhall not ſay, the they have cured me: For God by Pray<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath done it. Its prayer alone that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="47" facs="tcp:108905:33"/>done it.</hi> And indeed herein God made good that gracious Promiſe of his, <hi>Jam.</hi> 5.15. <hi>The Prayer of Faith ſhall ſave the ſick, and the Lord ſhall raiſe him up.</hi>
+            </p>
+            <p n="4">IV. Some months after Mr. <hi>Winter,</hi> with his Family, removed to <hi>Dublin,</hi> and after ſome time, the aforeſaid Mrs. <hi>Jones</hi> fell ſick again, and her ſickneſs prevailed ſo far upon her, that growing very weak, ſhe was confined to her bed. whereupon, on a Lords Day, Mr. <hi>Win<g ref="char:EOLhyphen"/>ter</hi> and his wife went to viſit her: when they came, they found another Mini<g ref="char:EOLhyphen"/>ſter with her, but ſhe called for Mr. <hi>Win<g ref="char:EOLhyphen"/>ter</hi> to pray with her. A Lady that was preſent, coming to Mrs. Winters Siſter, ſaid, <hi>O! Do you think this good woman will recover or not?</hi> She anſwered, I know not yet; but when my Brother <hi>Winter</hi> hath done praying I ſhall tell you more. When Mr. <hi>Winter</hi> had ended his prayer, this Lady came to her again, ſaying, <hi>What do you think now?</hi> She anſwered; She believed that ſhe would not recover: and ſo ſaid Mrs. <hi>Winter</hi> al<g ref="char:EOLhyphen"/>ſo: the reaſon whereof was, becauſe they obſerved that in his prayer he was more earneſt in praying for the ſpiri<g ref="char:EOLhyphen"/>tual and Eternal wellfare of her Soul,
+<pb n="48" facs="tcp:108905:34"/>than for her Bodily Health.</p>
+            <p>When they were returned home, Mrs. <hi>Winter</hi> asked her Husband what he thought of her? He anſwered, that ſhe would dye: For that when in prayer he would have begged of God the reſtore of her to health, he could not do it, but could only pray for her eternal happineſs. <hi>Faithful Prayer is ordained of God to be a means to obtain what we deſire, and pray for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and therefore is never put up in vain, but ſhall have an anſwer,</hi> 1 Joh. 5.14, 15. <hi>For where God gives an heart to ſpeak, he hath an ear to hear.</hi> And it is the ob<g ref="char:EOLhyphen"/>ſervation of a Reverend Divine of our own: <hi>That when God intends not to hear, he layes the Key of prayer out of the way, as being loth that ſuch precious breath as that of prayer is, ſhould be without its full, and deareſt ſucceſs.</hi>
+            </p>
+            <p>After this Mrs. <hi>Jones</hi> grew worſe and worſe, and continued in a languiſhing condition for ſome months. She had ſeveral Doctors, who ſtill gave her hopes of recovery. Mr. <hi>Winter</hi> prayed oft with her, but ſtill after the ſame manner, inſomuch as his Wife told him, that ſhe thought he did not love Mrs. <hi>Jones</hi> as formerly, becauſe he prayed not for
+<pb n="49" facs="tcp:108905:34"/>her life: he anſwered, that his love was the ſame, but he was ſo bound up in his ſpirit that he could not pray for her recovery, and therefore conceived that ſhe would die.</p>
+            <p>At length Mrs. <hi>Jones</hi> finding herſelf very weak, ſent for Mr. <hi>Winter</hi> to pray with her, and after prayer, ſhe ſaid un<g ref="char:EOLhyphen"/>to him, <hi>Sir, I hear you love me not ſo much as formerly. God heard your prayers for me when I was a dying at</hi> Kilkenny: <hi>but now you do not pray ſo earneſtly for my Life as you did then.</hi> No (ſaid he) I neither do, nor can do it, though I love you as well as ever. For when I would pray for your life, my Tongue is turned to pray for your Eternal walfare: there<g ref="char:EOLhyphen"/>fore I do believe you are not for this world, but will ſoon be in a better. Think you ſo? Said ſhe. Hereupon ſhe ſent for a Collonels Wife, between whom and herſelf there was ſome difference, and they were reconciled together. She ſent alſo for her Husband, and imparted her mind to him: Adding, that ſhe ſaw ſhe muſt die, for that Mr. <hi>Winter</hi> could not pray for her as he did in her former ſickneſs; and it pleaſed God preſently after to take her to himſelf.</p>
+            <pb n="50" facs="tcp:108905:35"/>
+            <p n="5">V. At an other time Mrs. <hi>Winters</hi> Siſter going for <hi>England,</hi> left her only Son with her; and after awhile the Child fell into a high Feavour, and one morn<g ref="char:EOLhyphen"/>ing the Maid, with whom the Child lay, came to her Miſtriſs, and told her, She feared the Child had the Plague, for that he had many ſpots on his boſom. And the Plague at this time was in <hi>Dub<g ref="char:EOLhyphen"/>lin.</hi> Mrs. <hi>Winter</hi> ſent for a Doctor, who when he had ſeen the Child, ſaid, that they were either Plague ſpots, or Feavour ſpots, and that he much feared the Childs Life. Mrs. <hi>Winter</hi> went to her Husband into his Study, and ac<g ref="char:EOLhyphen"/>quainted him with theſe things, requeſt<g ref="char:EOLhyphen"/>ing him that he would be earneſt with God in begging the Childs Life. At Noon, when her <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd came down, ſhe asked him what he thought? He bad her not to perplex, and trouble herſelf, for the Child would live: And before the next day the Child began to amend, and within a few Daies was perfectly well.</p>
+            <p n="6">VI. Mrs. <hi>Winter</hi> herſelf was once un<g ref="char:EOLhyphen"/>der a ſtrong Temptation to become an <hi>Anabaptiſt,</hi> being perſwaded that it was the way of God, and ſhe had been dip<g ref="char:EOLhyphen"/>ped
+<pb n="51" facs="tcp:108905:35"/>but that ſhe feared in would reflect upon her Husbands credit. Her Hus<g ref="char:EOLhyphen"/>band took much pains with her, yet could ſhe not be convinced of her error, but was both night and day in great per<g ref="char:EOLhyphen"/>plexity of ſpirit: Only ſhe relyed upon that gracious Promiſe of <hi>Chriſt, John</hi> 7.17. <hi>If any man will do his Will, he ſhall know of the Doctrine whether it be of God.</hi> And at laſt ſhe reſolved to ſet a day apart to ſeek unto God for ſatisfaction in this doubtful caſe. But it fell out that that very day, they were earneſtly invited to Dine with Doctor <hi>Jones,</hi> and her Huſ<g ref="char:EOLhyphen"/>band had promiſed to go: ſhe ſaid, ſhe could not go, becauſe ſhe had ſet that day apart upon ſuch an occaſion: Her Husband anſwered her; Thou muſt go, for I have been praying for thee, and God hath aſſured me, that thou ſhalt be ſatisfied, and that quickly too; and accordingly it came to paſs: for ſhe was ſo reſolved, and ſatisfied from Heaven, that afterwards ſhe was able to Diſpute with the Female <hi>Anabaptiſts,</hi> and to confute them; inſomuch as ſome of the Officers would let their Wives come no more at her.</p>
+            <p n="7">VII. Whilſt they were in <hi>Dublin</hi> Mrs. <hi>Winters</hi> Siſters Husband, being up<g ref="char:EOLhyphen"/>on
+<pb n="52" facs="tcp:108905:36"/>occaſion in <hi>London,</hi> fell dangerous ſick: Sir <hi>Francis Pridjean,</hi> and an other Doctor were his Phyſitians, who, af<g ref="char:EOLhyphen"/>ter a time gave him up for Dead. An other of Mrs. <hi>Winters</hi> Siſters, wrote her word of it, adding, That ſhe believed that before that letter came to her hands, he would be dead, and buried. Here<g ref="char:EOLhyphen"/>upon his Wife deſired that that afternoon might be ſet apart to ſeek unto God in his behalf: and accordingly ſome Mi<g ref="char:EOLhyphen"/>niſters and Chriſtians were invited to meet together for that end. When the time was come, Mrs. <hi>Winter</hi> requeſted her Husband that he would come away; for that the company was met. He had her go before; for he muſt endeavour to know of the Lord whether he was yet living or no: <hi>For</hi> (ſaid he) <hi>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you think that I will pray for a dead man?</hi> When ſome of the Miniſters had prayed, Do<g ref="char:EOLhyphen"/>ctor <hi>Winter</hi> came in. They prayed with ſubmiſſion, that if he was yet in the Land of the Living, the Lord would be pleaſed to be his Phyſitian, and to direct, and bleſs all good means to him, for the re<g ref="char:EOLhyphen"/>covery of his health But in the cloſe of the day, when Doctor <hi>Winter</hi> came to pray, he ſhewed much confidence that he was yet alive, and that he ſhould live
+<pb n="53" facs="tcp:108905:36"/>and recover, to the amazement of all that were preſent: But his Siſter, who knew his manner, and had experience of the ſucceſsfulneſs of his Prayers, between hope and fear, could not contain herſelf from crying out. When the Doctor had done and was riſen from his knees, he went to her, and took her by the hand, ſaying, <hi>Be of good comfort, for your Huſ<g ref="char:EOLhyphen"/>band is alive, and ſhall recover, and you ſhall ſee him again with comfort.</hi> She cry<g ref="char:EOLhyphen"/>ing out aloud ſaid, Ah Brother! I fear he is dead. Do you think he is alive? <hi>I know</hi> (ſaid he) <hi>that he is:</hi> and re<g ref="char:EOLhyphen"/>peated over his former words: And ac<g ref="char:EOLhyphen"/>cordingly, in their next letters, they heard of his amendment.</p>
+            <p n="8">VIII. At another time Mrs. <hi>Winters</hi> Siſter (who was with them in <hi>Ireland</hi>) fell into a relaps after a Feaver, being great with Child, and within two months of her time: at which time ſhe fell into a great bleeding at the Noſe. She had three Doctors, and Surgeons which uſ<g ref="char:EOLhyphen"/>ed all their Art, and yet could not ſtop it. At length ſhe fell into Travel, and two Midwives were ſent for to her. She was fain to ſit upright in her Bed, and could not lie down becauſe of her vio<g ref="char:EOLhyphen"/>lent bleeding. Her Midwives, and Do<g ref="char:EOLhyphen"/>ctors
+<pb n="54" facs="tcp:108905:37"/>gave her up for dead. And ſhe grew ſo weak that Mrs. <hi>Winter</hi> not being able to ſee her die, left her, and went to her own lodgeing, where ſhe found that her Siſters Husband had cauſed her Huſ<g ref="char:EOLhyphen"/>band to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and pray for his Wife, which he did with much earneſtneſs; and it pleaſed God that preſently after, news was brought them that ſhe was ſafely delivered of a dead Child. Here<g ref="char:EOLhyphen"/>upon Doctor <hi>Winter</hi> and his Wife went to ſee her, and found her ſtill bleeding; and the Doctors, and Surgeons were ſent for again, who agreed to open a Vein, and let her blood. The Surgeon ſtruck her right arm, but no blood came. The Doctors bid him try the other arm, he anſwered, that it was to no purpoſe, for ſhe had no Pulſe for ſome hours be<g ref="char:EOLhyphen"/>fore; yet the Doctors made him do it, and then ſome few drops of blood came: but moſt of this time Doctor <hi>Winter</hi> was praying for her in the next room, and ſhe ſometimes over-heard him, but could not ſpeak. Afterwards ſhe told them that theſe thoughts were in her Head: <hi>Yonder good man, would have me live: but is will not be.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one of her Midwives bid her <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Death, for ſhe could not
+<pb n="55" facs="tcp:108905:37"/>live. To which one of the Doctors ſaid, that ſure ſhe had forgotten <hi>Lazarus.</hi> No, replyed the Midwife; I have not forgotten him; but God muſt work as great a Miracle now as he did then if ſhe recovers. Yet it pleaſed God that ſhe did recover, and afterwards one of the Doctors told Mrs. <hi>Winter,</hi> that he never ſaw one ſo near unto death, to live; and that to him it was a Miracle. Here was another ſweet return to Doctor <hi>Winters</hi> Prayers, and his Siſter would often acknowledge that it was by the power of his Prayers that ſhe was re<g ref="char:EOLhyphen"/>ſtored to life, and ſo others thought alſo.</p>
+            <p n="9">IX. The laſt time that the Soldiery pulled the <hi>Engliſh</hi> Parliament in pieces, Doctor <hi>Winter,</hi> and his friends in <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> were in great fears of the confu<g ref="char:EOLhyphen"/>ſions which were like to follow: For which cauſe Doctor <hi>Winter</hi> kept Faſts Weekly with his Congregation, for a great while together. One time as he was praying, in imitation of <hi>Abrahams</hi> Interceſſion for <hi>Sodom,</hi> he uſed ſuch like expreſſions. <hi>Lord wilt thou alſo deſtroy the Righteous with the wicked? Peradven<g ref="char:EOLhyphen"/>ture there be fifty thouſand Righteous with<g ref="char:EOLhyphen"/>in theſe three Kingdoms: wilt thou alſo deſtroy, and not ſpare theſe Nations for
+<pb n="56" facs="tcp:108905:38"/>fifty thouſand Righteous that are therein?</hi> &amp;c. And when he came to the laſt num<g ref="char:EOLhyphen"/>ber of ten Thouſand, as he kneeled againſt a Poſt in the room, he ſaw a great ſhining Light about him, and heard perfectly a voice ſaying: <hi>The Na<g ref="char:EOLhyphen"/>tions ſhall be ſpared for ten thouſand Righ<g ref="char:EOLhyphen"/>teous Perſons ſake.</hi>
+            </p>
+            <p>Upon this gracious anſwer, he turned his prayers into praiſes and Thankſgiv<g ref="char:EOLhyphen"/>ing unto God for this ſpeedy anſwer to his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rneſt requeſts, inſomuch as all the company could not but take notice of it thought none of them heard the voice but himſelf only. Mrs. <hi>Winter,</hi> upon ſome occaſion was from home at this time: Yet a Gentlewoman that was preſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> told her afterwards, that her Husband that day was ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>levated in prayer, that he exceeded himſelf; and ſhe never heard him better, and that he was anſ<g ref="char:EOLhyphen"/>wered in his Petitions before he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe from his knees. Mrs. <hi>Winter</hi> asked her, how the knew that? She anſwered, By his large thankſgivings after he had done pleading with the Lord: Alſo a while after a Gentl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>man coming to ſee him, that had been preſent that day, embrac<g ref="char:EOLhyphen"/>ed him, ſaying, That he was a man, greatly beloved of the Lord, for that
+<pb n="57" facs="tcp:108905:38"/>he could no ſooner ask, but he was anſ<g ref="char:EOLhyphen"/>wered, and his Petitions granted. And the week after they heard that the pride of the ſouldiery had met with a great check.</p>
+            <p>Doctor <hi>Winter</hi> afterwards told his Wife that he now perceived that a voice might be ſpoken to one in a Room, and none elſe hear it. When he lay upon his death-bed, his Wife again asked him about it, and he ſaid, he did as plainly hear the Voice, as he heard her ſpeak. She asked him, If the Voice was like to hers? He ſaid, No, it was another kind of Voice. Thus we read, <hi>Acts</hi> 22.9. That the men that went with <hi>Saul</hi> to <hi>Damaſcus, Saw indeed the Light, and were afraid: but they heard not the Voice that ſpake to him.</hi>
+            </p>
+            <p n="10">X. At <hi>Dublin</hi> there was one Mrs <hi>Smith,</hi> a Merchants Wife, which had been many daies in labour: Her Child was dead within her. She had good experienced Midwives, and one Man-Midwife, and yet ſhe could not be deli<g ref="char:EOLhyphen"/>vered. At laſt, one morning they ſent for Doctor <hi>Winter</hi> to pray with her, ſaying, that ſhe could not live till night, being ſo far ſpent. But it fell out that he was out of Town. At night he came
+<pb n="58" facs="tcp:108905:39"/>home, and then they ſent an other meſ<g ref="char:EOLhyphen"/>ſenger for him, (her Husband ſaying, that ſhe was not yet dead, but very near unto it) Doctor <hi>Winter</hi> (though very weary) went to the houſe, and prayed very earneſtly unto God for her. When his prayer was ended, he ſpake to the good women about her to raiſe her up, and to uſe all good means for her help, ſaying that ſhe ſhould live. But they (being hopeleſs of her Life, and delivery) deſired that ſhe might be no more tor<g ref="char:EOLhyphen"/>tured, but that ſhe might die in peace. Yet Doctor <hi>Winter</hi> perſwaded them to make one further tryall, which at laſt they aſſented to, and had good ſucceſs: for in a ſhort time ſhe was ſafely deli<g ref="char:EOLhyphen"/>vered of her dead Child. This Mrs. <hi>Smith,</hi> proving afterwards with Child again, a Friend ſaid to her, She hoped it would be now better with her, than it was the time before: No (ſaid ſhe) Doctor <hi>Winter</hi> is gone, and I muſt now die; which alſo came to paſs: for ſhe could not be delivered.</p>
+            <p>XI. After Doctor <hi>Winters</hi> return in<g ref="char:EOLhyphen"/>to <hi>England,</hi> he, with his Wife, came to <hi>London,</hi> and for a month ſojourned in Doctor <hi>Drakes</hi> Houſe: In which time his ſecond Daughter fell ſick of the
+<pb n="59" facs="tcp:108905:39"/>Twiſting of the Guts. She had two able Phyſitians, Doctor <hi>French,</hi> and Doctor <hi>Cox.</hi> She lay in very great tor<g ref="char:EOLhyphen"/>ture from <hi>Munday</hi> till <hi>Saturday</hi> night, and the Doctors had very little hope of her Life. On <hi>Saturday</hi> evening Doctor <hi>Winter</hi> came in, and meeting with her Siſter, asked how ſhe did? Her Siſter anſwered, ſhe thought that now ſhe was very near unto death: For that the Do<g ref="char:EOLhyphen"/>ctors, having preſcribed ſomething to be given her in a Spoon, her teeth were ſo ſet, that her Aunt and ſhe had much ado to open them to put it into her mouth. But ſaid ſhe, <hi>Sir, what do you think of her?</hi> Give me (ſaid he) a can<g ref="char:EOLhyphen"/>dle, that I may go into my chamber, and anon I will tell you whether ſhe ſhall live or die.</p>
+            <p>When he came down, ſhe met him at the foot of the ſtairs, and asked him what he thought of her now? He anſ<g ref="char:EOLhyphen"/>wered, <hi>Your Siſter will live.</hi> And go<g ref="char:EOLhyphen"/>ing up into her Chamber, he ſpake to his Wife, and bid her to uſe all means poſſible for her recovery: <hi>For</hi> (ſaid he) <hi>ſhe muſt not dye this time.</hi> His Wife beg<g ref="char:EOLhyphen"/>ged of him not to be ſo confident, for that ſhe was very near unto Death, and no hopes of Life remained. Yet he
+<pb n="60" facs="tcp:108905:40"/>told her Mother, and Aunts that ſhe ſhould recover, and live. His Wife was much troubled at it, notwithſtanding all her former experiences: But the next day, ſigns of her recovery began to appear, and within a little ſpace ſhe was per<g ref="char:EOLhyphen"/>fectly well. Some other inſtances might be given, but theſe may ſuffice, as evi<g ref="char:EOLhyphen"/>dently demonſtrating that the Lord is a Prayer-hearing God, That never ſaith to the ſeed o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Jacob, Seek ye my Face in vain.</hi>
+            </p>
+            <p>Probably, the incredulous World will not believe theſe things to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>true<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but judge them rather to be <hi>Romances,</hi> and fancies than realities: But there are ſo many Conſciencious Perſons, and of Good credit yet living, who can, and will atteſt the Truth of them, that there is no place left to diſtruſt, or doubting, among thoſe that are ſober, and judicious.</p>
+            <p>
+               <hi>Amos</hi> 3.7. <hi>Surely the Lord God will d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nothing, but he revealeth his ſecret un<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his Servants the Prophets.</hi>
+            </p>
+            <p>
+               <hi>John</hi> 16.23.—<hi>Whatſoever you ſhall ask the Father in my Name; He will give it you, v.</hi> 24. <hi>Hitherto have you asked no<g ref="char:EOLhyphen"/>thing in my Name. Ask, and ye ſhall receive that you Joy may be full.</hi>
+            </p>
+            <div type="letter">
+               <pb n="61" facs="tcp:108905:40"/>
+               <head>A Letter written by Doctor <hi>Winter,</hi> to a Gentle<g ref="char:EOLhyphen"/>man deſiring of him a ſhort and plain account of what was neceſſary to the Perſon that would be ſaved.</head>
+               <p>THough many things in Scripture be required of a Chriſtian which he is bound to obſerve, not to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tain any Truth in unrighteouſneſs, for whoſoever p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſiſteth in any ſinful courſe againſt his light of Conſcience, without remorſe, and hearty ſorrow for the ſame ſinneth fundamentally, <hi>Rom 1.18. For the wrath of God is revealed from Heaven againſt a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ungodlineſs and unrighteouſneſs of men, who hold the truth in unrighteouſneſs.</hi> Yet there are not many things in themſelves abſolutely neceſſary to ſelvation, without which no man can be Saved. Theſe God in much mercie hath ſet down in holy <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itt, that the meaneſt and weakeſt Chriſtians may underſtand, <hi>Luke 19.42. If thou hadſt known, even thou, at leaſt in this thy day, the things which belong unto thy peace! &amp;c.</hi> From whence <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may obſerve that a man may know many things, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d yet not know the thing which concerns his ever<g ref="char:EOLhyphen"/>laſting
+<pb n="62" facs="tcp:108905:41"/>peace. The underſtanding is the firſt that lives, and the laſt that dies. I ſay then,</p>
+               <p n="1">
+                  <hi>1.</hi> Firſt, It is abſolutely neceſſary that there be a work of illumination and conviction, and that a clear, full, particular, and through work be upon the under<g ref="char:EOLhyphen"/>ſtanding: which muſt be renewed and ſanctified as well as the will, <hi>John 16.9. when the Spirit is come he will reprove the world of Sin, becauſe they believe not on me, Eph. 4.23.</hi> And be re<g ref="char:EOLhyphen"/>newed in the Spirit of your minds, ſo that the ſoul ſee ſin to be the greateſt evil in the world, and Chriſt the greateſt good, the only excellent and deſireable thing, <hi>Pſal. 73.25. Whom have I in Heaven but Thee? and there is none upon earth that I deſire beſides thee,</hi> Philip. <hi>3.8. Yea doubtleſs, and I count all things but loſs, for the excellency of the knowledge of Chriſt Jeſus my Lord: for whom I have ſuffered to loſs of all things, and do coun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them but Dung that I may win Chriſt.</hi> In the the young man in the Goſpel failed, for though <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> came running to Chriſt, yea kneeled down to him, Himſelf being a Ruler, he thought he had kept the Commandments from his youth; he thought he ſaw a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> excellency in Chriſt; elſe why went he away ſorrow<g ref="char:EOLhyphen"/>ful: yet becauſe he ſaw a greater excellency in the world, and Embraced that rather than Chriſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> periſhed, <hi>Mark 10.17. Luke 18.18.</hi>
+               </p>
+               <p n="2">
+                  <hi>2</hi> Secondly, It is neceſſary that the heart be broken. <hi>Pſal. 51.17. A broken and a contrite heart, O
+<pb n="63" facs="tcp:108905:41"/>God, thou wilt not deſpiſe.</hi> A broken heart is the ſound heart, the oyl of Grace is poured into the broken Veſſel: as firſt the heart muſt be broken with hearty ſorrow for ſin, as ſin; as it is a breach of the Law and Command of God, <hi>1 John 3.4. Whoſoever committeth Sin, Tranſgreſſeth the Law: for Sin is the tranſgreſſion of the Law.</hi> We muſt grieve for Chriſt Crucified by and for us, <hi>Zech. 12.10. They ſhall look upon me whom they have Pierced, and they ſhall mourn, as one mourn<g ref="char:EOLhyphen"/>eth for his only Son, and ſhall be in bitterneſs for him, as one that is in bitterneſs for his firſt-born.</hi> Till Sin is bitter to us, Chriſt will not be ſweet to us. Again he muſt be broken down, <hi>2 Cor. 10.5.</hi> That all the ſtrong holds of Sin be tumbled down, and all thoſe high thoughts, and ſtrong imaginations be laid low, that thoſe invincible forts of ſin be level'd, and the will ſubdued to the will of Chriſt. Again third<g ref="char:EOLhyphen"/>ly, the heart muſt be broken through, that the heart be contrite, <hi>Pſal. 51.17. A Contrite heart, O God, thou wilt not deſpiſe.</hi>
+               </p>
+               <p>The heart muſt be as it were ſhivered in pieces, and melted before the Lord; not like an Earthen Jugg, that is broken indeed, but the pieces remain hard as before; and thus it was with <hi>Pharaoh</hi> King of <hi>Egypt.</hi> Again fourthly, its neceſſary the heart be broken from Sin, as well as for ſin, its called <hi>Repentance from dead works, Heb. 6.1.</hi> He that doth not break off his former ſins, and bid adiew to
+<pb n="64" facs="tcp:108905:42"/>them, no more to act ſin, and live in ſin, as far<g ref="char:EOLhyphen"/>merly, cannot expect to be ſaved in the day of Chriſt <hi>1 Pet. 2.24. Who his own ſelf bare our ſins in his own body on the Tree, that we being dead to ſins, ſhould live unto righteouſneſs.</hi>
+               </p>
+               <p n="3">
+                  <hi>3.</hi> Thirdly, Its neceſſary that we ſhould be emptied of all ſelf righteouſneſs, ſo that we reſt not in any thing wrought in us, or by us as meritorious. <hi>Paul</hi> is this ſenſe looks it all as dr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs, and dung, and at the laſt day when perfect, deſires only to be found in Chriſt, not having his own righteouſneſs, which is of the Law, hut that which is of Faith by Jeſus Chriſt, <hi>Philip. 3.9.</hi> And as when a man gives poſſeſſion, to another of an houſe, he turns all out, no qui<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thing muſt be there; ſo all Sin, and all confidence i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our own righteouſneſs turn out, that Chriſt al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may take poſſeſſion of the Soul, which he hath pur<g ref="char:EOLhyphen"/>chaſed long ago at ſo dear a rate.</p>
+               <p n="4">
+                  <hi>4.</hi> Fourthly, Its neceſſary that we he regenerate, and born from above, <hi>John 3.3, 5.</hi> Jeſus ſaid <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Ni<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mns, except a man be born again, he can<g ref="char:EOLhyphen"/>not enter into the Kingdom of God. Old things are paſt away, and all things become now.</hi> W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t have new thoughts, new deſires, new ſea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> new ſorrows, new Joys, new ſpeeches, new compa<g ref="char:EOLhyphen"/>ny, new objects, a new converſation: in a word that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> live fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Chriſt, according to Chriſt, and for Chriſt ends; and not contend with Chriſt any more, ab<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eminence of the firſt cauſe, and the laſt end;
+<pb n="65" facs="tcp:108905:42"/>but make Chriſt the <hi>Alpha</hi> and <hi>Omega</hi> in all things</p>
+               <p n="5">
+                  <hi>5.</hi> Fifthly, That we cloſe with Chriſt by faith, as our Lord and Saviour, <hi>John 1.12. But as many as received him, to them he gave power to be<g ref="char:EOLhyphen"/>come the ſons of God, even to them that believe in his name.</hi> The ſoul being firſt ſenſible of its l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt eſtate, and ſecondly ſeeing a neceſſity of a Sa<g ref="char:EOLhyphen"/>viour, <hi>Acts 4.12.</hi> And thirdly being taken with the beauty and excellency of Chriſt, then faith cloſeth with Chriſt as Lord and Saviour; takes Chriſt as a Prophet to inſtruct him, and as a Prieſt to ſave him, and as a King to rule over him: And after<g ref="char:EOLhyphen"/>ward the ſoul attaines to aſſurance of his Love, <hi>1 John 5.13. Theſe things have I written to you, that you believe on the name of the Son of God; that ye may know that ye have Eternal Life,</hi> by a holy walking with God, for in that ſenſe good works juſtifie Faith declaratively, as faith doth the ſinner.</p>
+               <p n="6">
+                  <hi>6.</hi> Sixthly and laſtly, that we be ſincere: that is, firſt to hate all ſin and loth it. Secondly, perform, or endeavour to perform all known duties, <hi>Pſal. 119.6. I ſhall not be aſhamed, when I have reſpect to all thy Commandments.</hi> Thirdly, to walk as in the ſight of God, <hi>Eſa. 48 3.</hi> Remem<g ref="char:EOLhyphen"/>ber now, O Lord, I beſeech thee, how I have walk<g ref="char:EOLhyphen"/>ed before thee in truth and with a perfect heart, and have done that which is good in thy ſight. Fourth<g ref="char:EOLhyphen"/>ly, That though we do but little, yet what we do, we do for Gods ends, that he may be glorified, <hi>1
+<pb n="66" facs="tcp:108905:43"/>Cor. 10.31. Whether therefore ye eat or drink, or whatever you do, do all to the glory of God.</hi> O then let us be ſincere, elſe we ſhall loſe the things that we have wrought, <hi>2. John 8.</hi>
+               </p>
+               <p>Look to your ſelves, that we loſe not theſe things which we have wrought, but that you receive a full reward. For this heaven of hypocriſie ſpreads, ſwells, and ſowres all we do, and ſo ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s all. It ſpreads and ſowrs, then it puffs up the Soul with ſpiritual pride, and no ſin more dangerous than this. Hypocriſie makes all we do, but as ſhining ſins, as the gilded <hi>Mice</hi> of the <hi>Philiſtins,</hi> that were ſightly in the eyes of men; but of no value with God. Jehu did many glorious things but all was nothing, becauſe his heart was not upright with God or before God.</p>
+               <p>Theſe are the things that accompany Salvation, which whoever attains unto ſhall certainly be Saved; without which the Lord according to Scripture rule will not Save you; if they be not really, and effectu<g ref="char:EOLhyphen"/>ally wrought in you, by the holy ſpirit. Oh! then let me beſeech you to whom theſe lines ſhall come, Strive to enter in at the ſtraight gate: be ſure you build not upon a ſandy foundation, <hi>Mat. 7.26.</hi> But upon the rock Jeſus Chriſt, <hi>Mat. 7.24.</hi> Reſt not in any thing ſhort of Chriſt. Take heed you periſh not near the City of refuge, but conſider that ſaying of Chriſt, <hi>Mat. 7.22. Many will ſay unto me in that day, Lord, Lord have we not
+<pb n="67" facs="tcp:108905:43"/>Propheſied in thy name, open to us,</hi> to whom Chriſt will ſay <hi>depart from me I never knew you.</hi> Now to attain to what is here ſaid; is daily to ſeek to the Lord, who turns the hearts, as rivers of Waters, <hi>Prov. 21.1.</hi> And hath Promiſed to take away the hearts of Stone and give hearts of Fleſh, and to put his ſpirit in us and cauſe us to walk in his wayes, <hi>Ezek. 36.26, 27.</hi> We muſt attend in all holy ordinances; as conſtant prayer in ſecret and with others: In hearing and daily reading the holy Scriptures, ſome part of them. Alſo the Sacraments muſt not be neglected. Chriſt is a Prince and a Saviour: He gives Repen<g ref="char:EOLhyphen"/>tance and remiſſion of sins: <hi>Acts 5.31.</hi> He is a God hearing Prayers; to him muſt all fleſh come ſaith the <hi>Pſalmiſt,</hi> and thoſe that come unto him he will in no wiſe caſt off, <hi>John 6.37.</hi> Chriſt will forgive iniquities, tranſgreſſions and ſins. For this purpoſe the Son of God was manifeſted that he might deſtroy the works of the Devil, <hi>1 John 3.8. Come unto me all ye that are weary and heavy laden, and I will eaſe you, and you ſhall find reſt to your Souls, Mat. 11.28. Chriſt is our Wiſdom, Righteouſneſs, Sanctification, and Redemption, 1 Cor. 1.30.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="68" facs="tcp:108905:44"/>
+               <head>A Letter written by Doctor <hi>Winter,</hi> to a Gentle<g ref="char:EOLhyphen"/>woman who was under great Trouble of mind.</head>
+               <opener>
+                  <salute>My dear Friend and Siſter in Chriſt,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Received your welcome Letter, and return you ma<g ref="char:EOLhyphen"/>ny thanks for your <hi>dear affections,</hi> and <hi>fervent Prayers</hi> for me an unworthy Inſtrument in the hands of Chriſt. But am very ſorry that you are re<g ref="char:EOLhyphen"/>lapſed into your former <hi>doubting thoughts,</hi> which I entreat you to wave and lay aſide, leſt Chriſt upbraid you as he did his Diſciples, <hi>Mark 16.</hi> with your <hi>unbelief</hi> and <hi>hardneſs of heart.</hi> When Chriſt was riſen from the dead, and his work was done, he doth not go to Heaven, but ſtaies on Earth (a place not fit for a glorified Body) and converſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a with his Diſciples, and that not ſo much for his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Honour to prove himſelf not to be held by the h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s of death, as to ſtrengthen our Faith; and in the day of his Reſurrection he appeared five times, like one that cannot endure to be out of our company, though he ever finds ſomething among us, that might juſtly make him withdraw, as he did among
+<pb n="69" facs="tcp:108905:44"/>them; therefore the Lord upbraids them, for want <hi>(1)</hi> of clearneſs of faith, <hi>Luke 24.26. (2)</hi> of fulneſs of faith, <hi>ver. 25. Slow of heart to believe</hi> (all) <hi>that the Prophets have ſpoken, (3)</hi> of comfort of faith <hi>ver. 17. And are ſad. (4)</hi> Of not owning their faith. <hi>ver. 21. We truſted that it had been he that ſhould have de<g ref="char:EOLhyphen"/>livered Iſrael. (5)</hi> Of readineſs of faith. <hi>Ver. 25. O fools [and ſlow of heart] to believe:</hi> He had expreſſed abundance of love in ſatisfying all the claimes that Juſtice would make; and when Satan verily thought he had diſpatched him out of the way (He being buryed and that as a malefactor) ſo that either he ſhould not riſe at all, or not in glory and reputation among men; now Chriſt riſeth in deſpight of Hell, and the Father gives him glory, <hi>2 Pet. 1.17.</hi> That our faith and hope may be in God, and therefore Chriſt expreſſeth a diſſatisfaction, and diſcontent at them for their unkindneſs, and unthankfulneſs, as if he had ſaid, Time was when you were glad to know any thing that concerned me, when you hung upon me, and whatever I ſaid to you was a Law, and catertained with greedineſs, Why then are ye ſo backward now? Are my merits ere a whit the leſs? Or are you not ſenſible of your need, that you are ſo ſlow of heart to believe in me your everlaſt<g ref="char:EOLhyphen"/>ing Redeemer? Now conſider what Chriſt ſpake to them, He ſpeakes to you (for all <hi>Scripture is
+<pb n="70" facs="tcp:108905:45"/>writt for our Learning)</hi> and though Chriſt will not condemn you; yet he may and he doth (it ſeems) upbraid you; and ſuch upbraidings and frowns of Chriſt, are or ſhould be as much as death, yea Hell it ſelf to a believer, as Hell was before we believed: For the <hi>Conſcience</hi> is m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n wounded by way of Gods ſpecial love as a <hi>Friend,</hi> than by his hatred as an <hi>Enemy.</hi> If it were poſſible for a man to be thrown out of Gods arm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Love into Hell, Hell would be more to him than any other. For this made Chriſts ſufferings ſo great, becauſe he was ſo infinitely beloved of the Father as alwaies lying in his b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſome. Con<g ref="char:EOLhyphen"/>ſider what I ſay, as Chriſt takes it ill that we ſhould queſtion his Love; ſo of all ſins he will bear with none leſs than that of <g ref="char:V">Ʋ</g>nbelief. The Diſ<g ref="char:EOLhyphen"/>ciples had many failings, but he upbraids them with no ſin ſo much as <hi>Unbelief,</hi> as being of all ſins the moſt grievou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to him; therefore as you would make Conſcience of any other ſin, ſee that you make Conſcience of this, namely of not believ<g ref="char:EOLhyphen"/>ing in the Son of God, <hi>1 John 3 23.</hi>
+               </p>
+               <p>Conſider further why were theſe doubtings of <hi>Thomas</hi> and the Diſciples <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecorded, but to ſtreng<g ref="char:EOLhyphen"/>then our faith, they doubted of the Reſurrecti<g ref="char:EOLhyphen"/>on of Chriſt that the world might not doubt; and tis obſervable, that <hi>Thomas</hi> doubted more than all the reſt; therefore he bore a more emi<g ref="char:EOLhyphen"/>nent teſtimony to Chriſt than they did; crying
+<pb n="71" facs="tcp:108905:45"/>out <hi>My Lord and my God,</hi> being the firſt that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wned Chriſt as God; Go you and do likewiſe.</p>
+               <p>Truſt perfectly in the grace of the Lord Jeſus; and to encourage you, remember <hi>(1)</hi> you have his Word for ſalvation, and that Word to us ſurer than that voice from Heaven; <hi>This is my well beloved Son, hear Him, 2 Pet. 1.19.</hi> And the Earth ſhall ſooner reel, than the Word and Promiſe of God fail.</p>
+               <p n="2">
+                  <hi>(2)</hi> You have his Covenant the ſure mer<g ref="char:EOLhyphen"/>cies of <hi>David, Jer. 31.3, 17. If Heaven above can be meaſured, and the foundations of the Earth ſearched out beneath. I will alſo caſt off all the seed of</hi> Iſrael, <hi>for all that which they have done.</hi>
+               </p>
+               <p n="3">
+                  <hi>(3)</hi> You have the Attributes of God for you, the Pillars of Heaven, yea the Pillars of God, and are not theſe ſufficient to ſupport your ſoul? There is not one Attribute of God againſt you, but all for you, yea Juſtice it ſelf; ſo that you may plead with God, not only in point of mercy, but of Juſtice alſo; for Chriſt hath ſatisfied for all your ſins, therefore (with reverence be it ſpoken) God cannot in juſtice require the ſame debt twice of your Surety, and of you alſo, ſee <hi>Rom. 3.2.</hi>
+               </p>
+               <p n="4">
+                  <hi>(4)</hi> You have this atteſted by the broad Seal of Heaven, namely the Sacrament and Privy Seal of the ſpirit, called <hi>the Earneſt of the Spirit</hi> againſt that day, and then there will be no
+<pb n="72" facs="tcp:108905:46"/>need of that Earneſt, when we have the pur<g ref="char:EOLhyphen"/>chaſed poſſeſſion; but his Earneſt ſhewes you, that he is <hi>in Earneſt,</hi> not in <hi>Jeſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d will not aſſuredly loſe his Earneſt, which is pare of the bargain and confirms it to you.</p>
+               <p n="5">
+                  <hi>(5)</hi> Conſider all the glory of the Father <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> upon Chriſt was, that our faith and hope might be in God; the Jews ſlighted Chriſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him, but had they ſeen him in glory they would have believed on him.</p>
+               <p n="6">
+                  <hi>(6)</hi> Chriſt ſhould not diſcharge his office, if he ſhould not re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eive ſuch as you, and do you think that Chriſt will be unfaithful to his Father, or to poor ſouls that come unto God by him? I tell you the Lord hath made two ſorts of Promiſes <hi>(1)</hi> of Faith, <hi>John 6.37. All that the Father giveth me, ſhall come to me,</hi> namely, by Faith. <hi>(2)</hi> To Faith as it Follows in the ſame verſe, <hi>[and he that cometh I will in no wiſe caſt out.]</hi>
+               </p>
+               <p n="1">
+                  <hi>(1)</hi> Of the Church, <hi>(2)</hi> Of my heart, <hi>(3)</hi> Of Heaven: Therefore make a venture and caſt your ſoul on him, who will not ſail to keep ſafely that which is committed to his truſt.</p>
+               <p>And let me tell you farther, we are the Embaſſadours of Chriſt to treat with ſinners in Chriſts name, upon his own terms, and there<g ref="char:EOLhyphen"/>fore if you come in upon the terms of the Goſ<g ref="char:EOLhyphen"/>ſpel, out of the ſenſe of the poverty of your ſpirit,
+<pb n="73" facs="tcp:108905:46"/>and cloſe with Chriſt, as ſeeing an excellency in him, above all the world, ſo as to give your ſelf to him, and never to part with him, I ſay then that Chriſt is bound, and muſt of neceſſity make good, what his Embaſſadours have propounded and concluded in his name, in whoſe name according to the contents of your Letter, and the former know<g ref="char:EOLhyphen"/>ledge I have had of you, I do declare as a Miniſter of Chriſt that all your ſins are forgiven you, and therefore I charge you that you rowle your ſelf upon the Lord, the burden is too heavy for you to bear, but what you cannot bear that rowle upon the Lord, and know aſſuredly though we be unfaithful, yet he abideth faithful and cannot deny himſelf; the Promiſe is made to the truth and not to the degrees of grace.</p>
+               <p>Laſtly, if you perſiſt in unbelief, conſider how grievous this is to Chriſt: forget not what was ſaid before, that Chriſt upbraided the Diſciples, and doubtleſs the <hi>anger</hi> of Chriſt was never greater than the <hi>offence,</hi> nor the <hi>reproof</hi> unſutable unto the <hi>fault,</hi> therefore chide your ſoul; <hi>Why doſt thou caſt down thy ſelf (O my ſoul?) Why art thou diſquieted within me; ſtill truſt in God, who is the help of my faces,</hi> that is, who ſaves eminently, perſpicuouſly, ſo that a man may ſee Salvation in the face.</p>
+               <p>If all that I have ſaid will not prevail, know I have your Hand and Seal againſt you, and
+<pb n="74" facs="tcp:108905:47"/>muſt needs witneſs againſt you in that day; but I hope better things of you, that the Bowels of Chriſt will melt you, and his arms open'd upon the Croſs allure you to run to him, who never rejected any that came to him; and do you think that you ſhall be the firſt?</p>
+               <p>As to that Query <hi>What is the loweſt de<g ref="char:EOLhyphen"/>gree of faith?</hi> I anſwer, ſome ſay the loweſt act of faith is to ſee a poſſibility of mercy, but if I ſhould ſay ſo, I ſhould exclude many a pre<g ref="char:EOLhyphen"/>cious Saint out of Heaven: I ſay then the loweſt act of faith is to put a high eſtimate upon Chriſt as the <hi>chiefeſt of ten thouſand, Cant. 5.10.</hi> So as to cleave to him, and not to part with him for ever, though the ſoul ſee no probability, no not poſſibility of mercy, this is <hi>poverty of ſpirit,</hi> the loweſt round of <hi>Jacobs</hi> Ladder. To make this plain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuppoſe ſuch a Maid hath ſtrong affections to ſuch a Perſon, but he is otherwiſe inclined, yea ingaged, ſo that there is no poſſibility of obtaining him, yet there is true Love: The Caſe ſuits with many a ſoul, that cannot ſee any poſſibility of enjoying Chriſt, yet Loves him dearly, could be content to begg with him, why here is true Love, and therefore faith; for faith worketh by Love. Wherefore I ſay look after Chriſt with a wiſhly eye, with a long look, and you ſhall be ſaved, <hi>Iſa. 45.</hi> For the prayers made toward Chriſt the living Temple, are heard
+<pb n="75" facs="tcp:108905:47" rendition="simple:additions"/>as well as the prayers that are made in the Temple, though they cannot evidence their union with Chriſt.</p>
+               <p>My Dear Friend I commend theſe lines to you. The Pin of the Dyall points at the hour of the day, but cannot tell what a Clock 'tis, unleſs the Sun ſhine: unleſs the Lord ſhine upon your heart you can ſee no light of grace, or comfort, <hi>The Lord create the fruit of the lips peace,</hi> which I begg for you. Pray for me ſtill, as I deſire to do for You,</p>
+               <closer>
+                  <signed>Your aſſured Friend, <hi>S. W.</hi>
+                  </signed>
+               </closer>
+               <pb facs="tcp:108905:48"/>
+               <pb facs="tcp:108905:48"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
